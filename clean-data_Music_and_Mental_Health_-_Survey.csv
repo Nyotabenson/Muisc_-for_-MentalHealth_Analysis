@@ -1,0 +1,719 @@
+,Timestamp,Age,Primary streaming service,Hours per day,While working,Instrumentalist,Composer,Fav genre,Exploratory,Foreign languages,Anxiety,Depression,Insomnia,OCD,Music effects
+2,8/27/2022 21:28,18.0,Spotify,4.0,No,No,No,Video game music,No,Yes,7.0,7.0,10.0,2.0,No effect
+3,8/27/2022 21:40,61.0,YouTube Music,2.5,Yes,No,Yes,Jazz,Yes,Yes,9.0,7.0,3.0,3.0,Improve
+4,8/27/2022 21:54,18.0,Spotify,4.0,Yes,No,No,R&B,Yes,No,7.0,2.0,5.0,9.0,Improve
+5,8/27/2022 21:56,18.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,8.0,8.0,7.0,7.0,Improve
+6,8/27/2022 22:00,18.0,YouTube Music,3.0,Yes,Yes,No,Video game music,Yes,Yes,4.0,8.0,6.0,0.0,Improve
+7,8/27/2022 22:18,21.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,5.0,3.0,5.0,3.0,Improve
+8,8/27/2022 22:33,19.0,Spotify,6.0,Yes,No,No,Rock,No,No,2.0,0.0,0.0,0.0,Improve
+9,8/27/2022 22:44,18.0,I do not use a streaming service.,1.0,Yes,No,No,R&B,Yes,Yes,2.0,2.0,5.0,1.0,Improve
+10,8/27/2022 22:51,18.0,Spotify,3.0,Yes,Yes,No,Country,Yes,No,7.0,7.0,4.0,7.0,No effect
+11,8/27/2022 23:00,19.0,YouTube Music,8.0,Yes,No,No,EDM,Yes,No,1.0,0.0,0.0,1.0,Improve
+13,8/27/2022 23:12,19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,2.0,1.0,2.0,0.0,Improve
+14,8/27/2022 23:16,18.0,Spotify,4.0,Yes,Yes,No,Jazz,Yes,Yes,6.0,4.0,7.0,0.0,Improve
+15,8/27/2022 23:19,17.0,Spotify,2.0,No,No,No,Pop,Yes,Yes,7.0,5.0,4.0,1.0,Worsen
+16,8/27/2022 23:39,16.0,Spotify,8.0,Yes,No,No,Hip hop,Yes,Yes,8.0,8.0,4.0,3.0,Improve
+17,8/27/2022 23:39,16.0,Spotify,12.0,Yes,No,Yes,Hip hop,Yes,Yes,5.0,7.0,10.0,0.0,Improve
+18,8/27/2022 23:40,17.0,Spotify,24.0,Yes,No,No,Rap,Yes,No,7.0,5.0,0.0,3.0,Improve
+19,8/27/2022 23:41,15.0,Spotify,3.0,No,No,No,Hip hop,No,No,7.0,3.0,0.0,2.0,Improve
+20,8/27/2022 23:43,15.0,Apple Music,8.0,Yes,No,No,Hip hop,Yes,Yes,6.0,9.0,3.0,0.0,Improve
+21,8/28/2022 0:28,17.0,Spotify,4.0,Yes,No,No,Rap,Yes,No,10.0,10.0,2.0,4.0,Improve
+22,8/28/2022 1:39,19.0,I do not use a streaming service.,5.0,Yes,No,No,R&B,Yes,Yes,6.0,7.0,5.0,4.0,Improve
+23,8/28/2022 3:19,18.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,3.0,3.0,8.0,6.0,No effect
+24,8/28/2022 4:13,16.0,Other streaming service,3.0,Yes,Yes,Yes,Rock,Yes,Yes,10.0,6.0,8.0,10.0,Improve
+25,8/28/2022 4:38,18.0,Spotify,2.0,No,No,No,Pop,Yes,Yes,7.0,4.0,2.0,5.0,Improve
+26,8/28/2022 4:40,14.0,Spotify,12.0,Yes,Yes,Yes,Rock,Yes,Yes,8.0,6.0,10.0,5.0,Improve
+27,8/28/2022 5:05,18.0,YouTube Music,6.0,Yes,Yes,Yes,Pop,No,Yes,3.0,2.0,1.0,2.0,Improve
+28,8/28/2022 5:16,17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,6.0,6.0,4.0,5.0,Improve
+29,8/28/2022 8:36,17.0,Apple Music,1.0,Yes,No,No,Pop,Yes,No,8.0,2.0,1.0,5.0,Improve
+30,8/28/2022 10:30,20.0,Apple Music,5.0,Yes,Yes,No,Rock,Yes,Yes,7.0,7.0,2.0,0.0,Improve
+31,8/28/2022 10:38,19.0,Spotify,2.0,Yes,No,No,Classical,No,No,4.0,4.0,4.0,3.0,No effect
+32,8/28/2022 10:54,19.0,Spotify,6.0,Yes,Yes,No,Metal,Yes,Yes,9.0,8.0,2.0,3.0,Improve
+33,8/28/2022 10:59,17.0,Spotify,4.0,No,No,No,Rock,Yes,Yes,5.0,6.0,6.0,1.0,Improve
+34,8/28/2022 11:08,16.0,Spotify,1.0,Yes,No,No,Classical,No,No,0.0,0.0,0.0,0.0,No effect
+35,8/28/2022 11:13,18.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,No,3.0,2.0,1.0,1.0,Improve
+36,8/28/2022 11:25,21.0,Spotify,4.0,Yes,No,No,Pop,No,Yes,6.0,8.0,0.0,2.0,Improve
+37,8/28/2022 11:27,17.0,Other streaming service,3.0,Yes,No,No,Pop,Yes,No,2.0,0.0,4.0,0.0,No effect
+38,8/28/2022 11:36,26.0,Other streaming service,0.5,No,No,No,Rock,No,Yes,9.0,8.0,1.0,0.0,No effect
+39,8/28/2022 11:39,20.0,Spotify,4.0,Yes,No,No,EDM,Yes,No,7.0,2.0,8.0,6.0,Improve
+40,8/28/2022 11:50,23.0,YouTube Music,2.0,Yes,Yes,Yes,Video game music,Yes,No,4.0,2.0,3.0,4.0,Improve
+41,8/28/2022 11:54,18.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,7.0,6.0,5.0,0.0,Improve
+42,8/28/2022 11:55,37.0,YouTube Music,0.25,No,No,No,Video game music,Yes,No,3.0,2.0,10.0,0.0,No effect
+43,8/28/2022 11:58,17.0,Spotify,3.0,Yes,No,No,Classical,Yes,Yes,6.0,6.0,8.0,2.0,Improve
+44,8/28/2022 12:08,18.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,1.0,0.0,8.0,2.0,No effect
+45,8/28/2022 12:12,17.0,I do not use a streaming service.,1.0,Yes,Yes,Yes,Folk,No,No,7.0,3.0,1.0,5.0,Improve
+46,8/28/2022 12:15,36.0,Spotify,1.0,No,Yes,Yes,Classical,No,No,8.0,9.0,3.0,0.0,No effect
+47,8/28/2022 12:23,24.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,9.0,6.0,4.0,3.0,Improve
+48,8/28/2022 12:30,18.0,Spotify,5.0,Yes,No,Yes,Metal,Yes,Yes,7.0,9.0,5.0,0.0,Improve
+49,8/28/2022 12:32,19.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,7.0,4.0,2.0,4.0,No effect
+50,8/28/2022 12:37,17.0,Apple Music,2.0,Yes,Yes,No,EDM,Yes,No,0.0,0.0,0.0,0.0,Improve
+51,8/28/2022 12:39,16.0,Spotify,6.0,Yes,No,No,K pop,Yes,Yes,7.0,8.0,7.0,5.0,Improve
+52,8/28/2022 12:52,23.0,Apple Music,1.0,No,No,No,Rap,No,Yes,10.0,6.0,3.0,10.0,No effect
+53,8/28/2022 12:53,23.0,Spotify,12.0,Yes,No,No,Pop,Yes,Yes,3.0,7.0,5.0,5.0,No effect
+54,8/28/2022 12:54,22.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,Yes,8.0,7.0,4.0,3.0,Improve
+55,8/28/2022 13:01,16.0,Apple Music,2.0,Yes,Yes,No,Classical,Yes,No,0.0,0.0,1.0,3.0,Improve
+56,8/28/2022 13:05,18.0,Spotify,6.0,Yes,No,No,Rock,Yes,No,8.0,6.0,2.0,10.0,No effect
+58,8/28/2022 13:09,23.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,6.0,4.0,2.0,3.0,Improve
+59,8/28/2022 13:18,23.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,7.0,0.0,0.0,2.0,Improve
+60,8/28/2022 13:22,19.0,YouTube Music,1.0,No,Yes,No,K pop,Yes,Yes,10.0,1.0,0.0,0.0,Improve
+61,8/28/2022 13:22,22.0,Pandora,1.0,No,Yes,No,Rock,Yes,No,8.0,7.0,0.0,5.0,Improve
+62,8/28/2022 13:34,15.0,Other streaming service,2.0,Yes,Yes,No,Rock,No,No,3.0,2.0,6.0,7.0,Improve
+63,8/28/2022 13:34,25.0,Spotify,2.0,No,No,No,Metal,No,Yes,5.0,5.0,3.0,1.0,No effect
+64,8/28/2022 13:42,32.0,Spotify,5.0,Yes,No,No,Rock,No,Yes,10.0,10.0,3.0,1.0,Worsen
+65,8/28/2022 13:43,36.0,Spotify,6.0,Yes,No,No,Metal,Yes,Yes,5.0,4.0,10.0,2.0,Improve
+66,8/28/2022 13:46,24.0,Spotify,3.0,No,No,No,Rock,Yes,Yes,0.0,0.0,8.0,0.0,No effect
+67,8/28/2022 13:48,29.0,Spotify,4.0,No,No,No,Hip hop,Yes,No,8.0,8.0,5.0,10.0,Improve
+68,8/28/2022 13:55,41.0,Apple Music,3.0,Yes,Yes,Yes,Metal,Yes,Yes,10.0,7.0,8.0,0.0,Improve
+69,8/28/2022 13:57,36.0,I do not use a streaming service.,2.0,Yes,Yes,Yes,Rock,Yes,No,7.0,3.0,1.0,1.0,Improve
+70,8/28/2022 13:59,19.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,No,8.0,7.0,4.0,0.0,Improve
+71,8/28/2022 14:00,31.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,10.0,2.0,0.0,5.0,No effect
+72,8/28/2022 14:01,16.0,Spotify,4.0,Yes,No,No,Rock,No,Yes,9.0,8.0,1.0,2.0,Improve
+73,8/28/2022 14:02,26.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,6.0,3.0,1.0,1.0,Improve
+74,8/28/2022 14:04,22.0,Apple Music,0.5,No,No,No,Hip hop,No,No,7.0,7.0,0.0,1.0,No effect
+75,8/28/2022 14:04,16.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,7.0,7.0,8.0,4.0,Improve
+76,8/28/2022 14:07,17.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,4.0,1.0,0.0,0.0,Improve
+77,8/28/2022 14:08,19.0,Spotify,10.0,Yes,No,No,R&B,Yes,Yes,7.0,2.0,1.0,5.0,Improve
+78,8/28/2022 14:10,18.0,YouTube Music,2.0,No,No,No,EDM,No,Yes,9.0,0.0,5.0,10.0,Improve
+79,8/28/2022 14:10,18.0,YouTube Music,4.0,Yes,No,No,Hip hop,Yes,Yes,2.0,7.0,1.0,1.0,Improve
+80,8/28/2022 14:12,19.0,Spotify,5.0,No,Yes,Yes,Rock,Yes,Yes,10.0,8.0,7.0,0.0,Improve
+81,8/28/2022 14:14,19.0,Spotify,3.0,Yes,No,No,Jazz,Yes,No,3.0,0.0,0.0,0.0,Improve
+82,8/28/2022 14:18,22.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,7.0,8.0,5.0,1.0,No effect
+83,8/28/2022 14:24,16.0,Spotify,2.5,Yes,Yes,Yes,Rock,Yes,Yes,2.0,1.0,0.0,0.0,Improve
+84,8/28/2022 14:25,19.0,Spotify,3.0,Yes,No,No,R&B,Yes,Yes,5.0,4.0,0.0,1.0,Improve
+85,8/28/2022 14:26,37.0,Spotify,1.0,Yes,No,No,Rock,No,No,9.0,10.0,6.0,10.0,No effect
+86,8/28/2022 14:29,14.0,Spotify,7.0,Yes,Yes,No,Jazz,No,No,2.0,0.0,0.0,0.0,Improve
+87,8/28/2022 14:30,33.0,I do not use a streaming service.,1.0,No,No,No,Metal,No,Yes,5.0,2.0,5.0,1.0,Improve
+88,8/28/2022 14:38,26.0,Spotify,1.0,No,No,No,R&B,No,No,3.0,2.0,0.0,0.0,No effect
+89,8/28/2022 14:41,32.0,Spotify,3.0,Yes,No,No,Hip hop,No,No,2.0,0.0,7.0,0.0,No effect
+90,8/28/2022 14:45,30.0,Spotify,5.0,Yes,Yes,No,Metal,Yes,No,7.0,6.0,6.0,2.0,No effect
+91,8/28/2022 14:47,43.0,I do not use a streaming service.,6.0,Yes,Yes,Yes,Video game music,Yes,Yes,5.0,4.0,8.0,3.0,No effect
+92,8/28/2022 14:49,24.0,Spotify,4.0,Yes,No,No,Classical,Yes,Yes,4.0,6.0,5.0,3.0,Improve
+93,8/28/2022 14:51,36.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,6.0,2.0,3.0,1.0,Improve
+94,8/28/2022 14:58,19.0,YouTube Music,4.0,Yes,No,No,Video game music,Yes,No,8.0,2.0,1.0,6.0,Improve
+95,8/28/2022 14:59,22.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,9.0,6.0,0.0,6.0,Improve
+96,8/28/2022 15:02,20.0,Spotify,3.0,No,No,Yes,EDM,Yes,Yes,0.0,3.0,7.0,0.0,Improve
+97,8/28/2022 15:03,31.0,Spotify,2.0,No,No,No,Rock,Yes,No,8.0,9.0,6.0,2.0,Improve
+98,8/28/2022 15:03,19.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,4.0,1.0,1.0,1.0,Improve
+99,8/28/2022 15:07,15.0,Spotify,8.0,Yes,No,No,Rock,No,No,8.0,7.0,5.0,0.0,Improve
+100,8/28/2022 15:09,18.0,Spotify,2.0,No,Yes,Yes,Metal,Yes,Yes,3.0,4.0,6.0,1.0,Improve
+101,8/28/2022 15:22,25.0,I do not use a streaming service.,0.5,No,Yes,No,Classical,No,No,1.0,1.0,3.0,1.0,Improve
+102,8/28/2022 15:32,17.0,Apple Music,5.0,Yes,No,No,Metal,Yes,No,10.0,8.0,6.0,7.0,No effect
+103,8/28/2022 15:41,28.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,6.0,6.0,2.0,0.0,No effect
+104,8/28/2022 16:04,20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,6.0,7.0,0.0,0.0,Improve
+105,8/28/2022 16:07,21.0,YouTube Music,2.0,Yes,Yes,No,Metal,Yes,Yes,8.0,4.0,10.0,0.0,No effect
+106,8/28/2022 16:07,41.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,9.0,7.0,6.0,2.0,No effect
+107,8/28/2022 16:08,20.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,7.0,4.0,6.0,5.0,Improve
+108,8/28/2022 16:13,34.0,Other streaming service,4.0,Yes,No,No,Metal,Yes,Yes,6.0,7.0,0.0,0.0,No effect
+109,8/28/2022 16:15,21.0,YouTube Music,3.0,Yes,No,Yes,Metal,Yes,No,10.0,0.0,10.0,10.0,Improve
+110,8/28/2022 16:15,23.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,6.0,3.0,0.0,1.0,Improve
+111,8/28/2022 16:15,16.0,Spotify,3.0,No,No,No,Pop,No,No,7.0,5.0,5.0,3.0,Improve
+112,8/28/2022 16:15,19.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,7.0,10.0,5.0,0.0,Improve
+113,8/28/2022 16:23,22.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,8.0,6.0,0.0,0.0,Improve
+114,8/28/2022 16:27,19.0,Spotify,8.0,Yes,No,No,K pop,Yes,Yes,4.0,3.0,0.0,0.0,Improve
+115,8/28/2022 16:30,23.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,7.0,6.0,7.0,5.0,Improve
+116,8/28/2022 16:30,23.0,Spotify,2.0,No,Yes,No,Metal,No,Yes,7.0,3.0,2.0,3.0,Improve
+117,8/28/2022 16:32,22.0,Spotify,1.0,No,No,Yes,EDM,Yes,No,2.0,7.0,5.0,0.0,Improve
+118,8/28/2022 16:34,17.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,7.0,8.0,6.0,5.0,Improve
+119,8/28/2022 16:37,28.0,Spotify,0.5,No,No,No,Folk,Yes,No,4.0,7.0,1.0,0.0,Improve
+120,8/28/2022 16:37,23.0,Spotify,2.0,No,No,No,Rock,Yes,Yes,7.0,8.0,5.0,1.0,No effect
+121,8/28/2022 16:53,19.0,Apple Music,3.0,Yes,No,No,Rock,Yes,Yes,5.0,2.0,8.0,6.0,Improve
+122,8/28/2022 16:58,17.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,10.0,7.0,4.0,2.0,Improve
+123,8/28/2022 17:14,21.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,6.0,5.0,0.0,0.0,No effect
+124,8/28/2022 17:14,29.0,Other streaming service,5.0,Yes,No,No,Jazz,Yes,Yes,7.0,2.0,3.0,1.0,Improve
+125,8/28/2022 17:15,22.0,Spotify,10.0,No,Yes,Yes,EDM,No,Yes,4.0,7.0,7.0,3.0,Improve
+126,8/28/2022 17:15,18.0,Spotify,4.0,Yes,Yes,Yes,Pop,Yes,Yes,4.0,5.0,6.0,5.0,Improve
+127,8/28/2022 17:19,13.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,7.0,10.0,5.0,6.0,Worsen
+128,8/28/2022 17:27,24.0,Spotify,1.0,No,No,No,Metal,Yes,No,6.0,4.0,5.0,0.0,Improve
+129,8/28/2022 17:32,35.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,4.0,1.0,3.0,1.0,No effect
+130,8/28/2022 17:33,29.0,YouTube Music,1.0,Yes,Yes,No,Video game music,Yes,No,6.0,6.0,1.0,2.0,Improve
+131,8/28/2022 17:37,28.0,Spotify,6.0,Yes,No,No,Rock,No,No,10.0,8.0,7.0,1.0,Improve
+132,8/28/2022 17:40,32.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,10.0,8.0,2.0,8.0,Improve
+133,8/28/2022 17:41,32.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,3.0,6.0,2.0,0.0,No effect
+134,8/28/2022 17:43,21.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,8.0,9.0,2.0,0.0,Improve
+135,8/28/2022 17:54,18.0,Spotify,2.0,Yes,Yes,No,Video game music,No,Yes,8.0,3.0,8.0,7.0,Improve
+136,8/28/2022 17:56,19.0,Spotify,3.0,Yes,Yes,No,Classical,Yes,No,3.0,3.0,1.0,2.0,Improve
+137,8/28/2022 18:02,18.0,Apple Music,2.0,Yes,Yes,No,Pop,Yes,Yes,6.0,5.0,2.0,0.0,Improve
+138,8/28/2022 18:03,16.0,YouTube Music,3.0,Yes,No,Yes,Pop,No,No,0.0,0.0,4.0,0.0,No effect
+139,8/28/2022 18:03,25.0,Spotify,1.5,Yes,No,No,Pop,No,No,6.0,5.0,0.0,2.0,Improve
+140,8/28/2022 18:06,17.0,Spotify,4.0,Yes,No,No,Lofi,Yes,Yes,3.0,8.0,0.0,0.0,Improve
+141,8/28/2022 18:08,16.0,Spotify,2.0,Yes,No,No,Rap,Yes,Yes,1.0,8.0,0.0,0.0,No effect
+142,8/28/2022 18:13,27.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,5.0,6.0,6.0,3.0,Improve
+143,8/28/2022 18:17,53.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,0.0,0.0,0.0,0.0,Improve
+144,8/28/2022 18:17,25.0,Spotify,1.0,Yes,No,No,EDM,No,No,0.0,8.0,0.0,0.0,Improve
+145,8/28/2022 18:18,34.0,Spotify,2.0,No,No,No,Metal,No,No,3.0,7.0,0.0,0.0,Improve
+146,8/28/2022 18:18,22.0,Other streaming service,6.0,Yes,Yes,Yes,Jazz,Yes,Yes,8.0,8.0,8.0,5.0,Improve
+147,8/28/2022 18:18,17.0,Spotify,2.0,Yes,Yes,Yes,Jazz,Yes,No,5.0,2.0,3.0,4.0,Improve
+148,8/28/2022 18:21,26.0,Spotify,3.0,Yes,Yes,No,Folk,Yes,No,8.0,8.0,3.0,0.0,Improve
+149,8/28/2022 18:28,19.0,Spotify,8.0,Yes,No,No,EDM,Yes,No,6.0,8.0,8.0,0.0,Improve
+150,8/28/2022 18:30,21.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,6.0,8.0,6.0,0.0,Worsen
+151,8/28/2022 18:33,32.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,6.0,6.0,7.0,5.0,Improve
+152,8/28/2022 18:35,21.0,I do not use a streaming service.,3.0,Yes,No,No,Rock,No,No,9.0,10.0,3.0,0.0,No effect
+153,8/28/2022 18:51,25.0,Spotify,2.0,No,Yes,No,Pop,No,No,7.0,7.0,5.0,0.0,Improve
+154,8/28/2022 18:53,26.0,Spotify,1.0,No,No,No,Rock,No,No,10.0,7.0,2.0,8.0,No effect
+155,8/28/2022 18:54,21.0,Spotify,2.0,Yes,Yes,No,Metal,Yes,Yes,1.0,3.0,0.0,6.0,No effect
+156,8/28/2022 18:55,17.0,Spotify,2.0,Yes,Yes,No,Pop,No,Yes,5.0,3.0,2.0,1.0,Improve
+157,8/28/2022 18:56,28.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,6.0,8.0,1.0,6.0,Improve
+158,8/28/2022 18:57,41.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,7.0,2.0,0.0,7.0,Improve
+159,8/28/2022 18:58,18.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,6.0,9.0,9.0,0.0,Improve
+160,8/28/2022 18:58,22.0,Spotify,2.0,No,No,No,R&B,No,Yes,1.0,1.0,4.0,1.0,No effect
+162,8/28/2022 18:59,49.0,Other streaming service,1.0,Yes,No,No,EDM,Yes,No,8.0,8.0,2.0,0.0,Improve
+163,8/28/2022 19:04,21.0,Spotify,3.0,Yes,Yes,Yes,Metal,Yes,No,3.0,3.0,7.0,0.0,No effect
+164,8/28/2022 19:04,27.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,8.0,8.0,3.0,0.0,Improve
+165,8/28/2022 19:07,19.0,Spotify,1.0,No,No,Yes,Metal,Yes,Yes,6.0,4.0,0.0,3.0,No effect
+166,8/28/2022 19:10,27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,1.0,0.0,0.0,0.0,Improve
+167,8/28/2022 19:12,27.0,Spotify,1.5,Yes,No,No,Rock,No,No,5.0,5.0,4.0,4.0,Improve
+169,8/28/2022 19:18,42.0,YouTube Music,2.5,Yes,Yes,No,Rock,No,Yes,8.0,8.0,7.0,6.0,Improve
+170,8/28/2022 19:20,60.0,Pandora,2.0,Yes,No,No,Gospel,No,No,3.0,0.0,2.0,0.0,Improve
+171,8/28/2022 19:22,19.0,YouTube Music,5.0,Yes,No,No,Metal,No,Yes,0.0,5.0,1.0,0.0,No effect
+172,8/28/2022 19:26,20.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,6.0,3.0,0.0,0.0,Improve
+173,8/28/2022 19:27,28.0,Spotify,2.0,No,No,Yes,Metal,No,No,1.0,7.0,5.0,1.0,Improve
+174,8/28/2022 19:29,16.0,I do not use a streaming service.,2.0,No,Yes,Yes,Video game music,Yes,No,4.0,2.0,1.0,1.0,No effect
+175,8/28/2022 19:29,18.0,Spotify,2.0,Yes,No,No,R&B,No,Yes,5.0,6.0,0.0,1.0,No effect
+176,8/28/2022 19:30,34.0,Spotify,1.0,Yes,No,No,Rock,Yes,Yes,1.0,0.0,0.0,0.0,No effect
+177,8/28/2022 19:30,18.0,YouTube Music,1.5,Yes,No,No,Pop,Yes,No,8.0,6.0,5.0,2.0,Improve
+178,8/28/2022 19:35,21.0,Spotify,5.0,Yes,Yes,Yes,Folk,Yes,Yes,9.0,4.0,0.0,3.0,Improve
+179,8/28/2022 19:40,38.0,Spotify,0.5,No,No,No,Rock,Yes,Yes,4.0,6.0,6.0,4.0,Improve
+180,8/28/2022 19:46,17.0,Spotify,2.0,Yes,No,No,Rock,No,Yes,7.0,3.0,1.0,5.0,Improve
+181,8/28/2022 19:46,35.0,Other streaming service,0.5,No,No,No,Pop,No,No,10.0,3.0,1.0,0.0,No effect
+182,8/28/2022 19:50,21.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,No,Yes,8.0,8.0,3.0,0.0,Improve
+183,8/28/2022 19:56,25.0,Apple Music,2.5,Yes,No,No,R&B,No,No,7.0,6.0,5.0,4.0,Improve
+184,8/28/2022 19:59,18.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,7.0,2.0,3.0,5.0,Improve
+185,8/28/2022 20:01,16.0,Apple Music,2.0,No,No,No,Pop,Yes,No,10.0,3.5,5.0,10.0,Improve
+186,8/28/2022 20:04,19.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,7.0,5.0,1.0,2.0,Improve
+187,8/28/2022 20:12,31.0,Spotify,4.0,Yes,Yes,No,Classical,No,Yes,6.0,8.0,9.0,5.0,Improve
+188,8/28/2022 20:14,26.0,Spotify,5.0,Yes,No,No,Rock,No,No,2.0,9.0,2.0,1.0,No effect
+189,8/28/2022 20:14,16.0,Spotify,2.0,Yes,Yes,Yes,Rock,No,No,7.0,4.0,10.0,2.0,Improve
+190,8/28/2022 20:15,26.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,7.0,5.0,6.0,0.0,Improve
+191,8/28/2022 20:20,17.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,6.0,1.0,0.0,0.0,Improve
+192,8/28/2022 20:20,22.0,Spotify,1.0,Yes,Yes,No,Video game music,Yes,Yes,3.0,6.0,1.0,1.0,Improve
+193,8/28/2022 20:32,20.0,Apple Music,4.0,Yes,No,No,R&B,Yes,Yes,9.0,10.0,3.0,0.0,Improve
+194,8/28/2022 20:33,30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,8.0,5.0,8.0,9.0,Improve
+195,8/28/2022 20:37,26.0,Other streaming service,4.0,Yes,No,No,Pop,No,No,8.0,7.0,7.0,3.0,Improve
+196,8/28/2022 20:43,19.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,9.0,9.0,9.0,3.0,No effect
+198,8/28/2022 20:57,33.0,Spotify,7.0,Yes,No,No,Rock,Yes,Yes,9.0,3.0,7.0,8.0,Improve
+199,8/28/2022 20:57,28.0,YouTube Music,2.0,Yes,No,No,Rock,Yes,No,10.0,8.0,6.0,2.0,Improve
+200,8/28/2022 21:01,25.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,9.0,6.0,3.0,0.0,Improve
+201,8/28/2022 21:03,22.0,YouTube Music,2.0,Yes,No,No,Pop,No,No,7.0,7.0,8.0,3.0,Improve
+202,8/28/2022 21:06,19.0,Spotify,3.0,Yes,No,Yes,Rock,Yes,Yes,9.0,10.0,4.0,0.0,Improve
+203,8/28/2022 21:11,44.0,Other streaming service,3.0,Yes,No,No,Folk,Yes,Yes,9.0,9.0,8.0,2.0,Improve
+204,8/28/2022 21:14,22.0,Spotify,3.0,Yes,No,No,Rock,No,No,9.0,10.0,3.0,9.0,Improve
+205,8/28/2022 21:14,26.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,10.0,9.0,8.0,8.0,Improve
+206,8/28/2022 21:23,23.0,I do not use a streaming service.,6.0,Yes,No,Yes,Classical,No,Yes,6.0,5.0,6.0,8.0,Improve
+207,8/28/2022 21:24,17.0,Spotify,2.0,No,No,No,R&B,No,Yes,8.0,6.0,10.0,3.0,Improve
+208,8/28/2022 21:26,42.0,YouTube Music,2.0,No,No,No,Metal,Yes,No,8.0,3.0,6.0,4.0,Improve
+209,8/28/2022 21:28,30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,4.0,2.0,1.0,3.0,Improve
+210,8/28/2022 21:30,35.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,2.0,1.0,1.0,1.0,No effect
+211,8/28/2022 21:30,20.0,Spotify,3.0,No,No,No,Rock,Yes,No,10.0,10.0,7.0,3.0,Improve
+212,8/28/2022 21:31,18.0,Spotify,3.0,Yes,No,No,Rap,Yes,Yes,8.0,9.0,0.0,0.0,Improve
+213,8/28/2022 21:47,21.0,Spotify,1.0,No,No,No,Pop,No,Yes,4.0,9.0,6.0,2.0,No effect
+214,8/28/2022 21:48,19.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,4.0,2.0,0.0,0.0,Improve
+215,8/28/2022 21:48,37.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,9.0,2.0,7.0,7.0,Improve
+216,8/28/2022 21:52,31.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,8.0,6.0,7.0,5.0,Improve
+217,8/28/2022 21:54,29.0,Spotify,2.0,Yes,Yes,No,Folk,Yes,Yes,6.0,5.0,4.0,2.0,Improve
+218,8/28/2022 21:55,20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,8.0,5.0,2.0,3.0,Improve
+219,8/28/2022 21:55,36.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Video game music,No,Yes,7.0,6.0,6.0,1.0,No effect
+220,8/28/2022 22:03,18.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,10.0,2.0,0.0,0.0,Improve
+221,8/28/2022 22:04,18.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,6.0,0.0,0.0,0.0,Improve
+222,8/28/2022 22:05,25.0,Spotify,7.0,Yes,No,No,Pop,No,Yes,2.0,0.0,1.0,0.0,Improve
+224,8/28/2022 22:09,31.0,YouTube Music,9.0,Yes,No,No,Pop,Yes,Yes,9.0,0.0,2.0,0.0,Improve
+225,8/28/2022 22:10,17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,5.0,4.0,1.0,1.0,Improve
+226,8/28/2022 22:11,21.0,Spotify,1.0,Yes,No,No,Folk,No,Yes,8.0,4.0,0.0,1.0,Improve
+227,8/28/2022 22:13,30.0,Other streaming service,1.0,No,No,No,Country,No,No,8.0,10.0,2.0,0.0,Improve
+228,8/28/2022 22:14,40.0,Apple Music,2.0,Yes,No,No,Metal,Yes,Yes,3.0,6.0,2.0,1.0,No effect
+229,8/28/2022 22:14,64.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,No,No,4.0,4.0,2.0,1.0,Improve
+230,8/28/2022 22:21,14.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,7.0,5.0,2.0,6.0,Improve
+231,8/28/2022 22:30,26.0,YouTube Music,6.0,Yes,No,No,Rock,Yes,No,3.0,2.0,0.0,0.0,No effect
+232,8/28/2022 22:32,35.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,9.0,9.0,5.0,1.0,Improve
+233,8/28/2022 22:38,33.0,Other streaming service,1.0,No,No,No,Rock,No,No,3.0,10.0,4.0,1.0,No effect
+234,8/28/2022 22:39,30.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,9.0,0.0,5.0,0.0,No effect
+236,8/28/2022 22:49,27.0,Spotify,5.0,Yes,No,Yes,Folk,Yes,Yes,0.0,9.0,4.0,0.0,Improve
+237,8/28/2022 22:51,53.0,I do not use a streaming service.,1.5,No,No,No,Pop,Yes,Yes,2.0,2.0,2.0,1.0,No effect
+238,8/28/2022 22:51,23.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,6.0,9.0,2.0,1.0,Improve
+239,8/28/2022 22:53,25.0,Spotify,2.0,Yes,No,Yes,EDM,Yes,No,6.0,4.0,1.0,0.0,Improve
+240,8/28/2022 22:58,16.0,Apple Music,4.0,Yes,Yes,No,K pop,Yes,Yes,8.0,9.0,4.0,0.0,Improve
+241,8/28/2022 23:04,18.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,6.0,7.0,4.0,3.0,Improve
+242,8/28/2022 23:08,29.0,Spotify,5.0,Yes,Yes,Yes,Classical,Yes,Yes,7.0,2.0,2.0,0.0,Improve
+243,8/28/2022 23:19,31.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,8.0,6.0,5.0,6.0,No effect
+244,8/28/2022 23:23,31.0,Spotify,1.0,No,No,No,Rock,No,Yes,3.0,10.0,0.0,0.0,Worsen
+245,8/28/2022 23:23,38.0,Spotify,6.0,Yes,Yes,No,Pop,Yes,Yes,9.0,4.0,9.0,7.0,Improve
+246,8/28/2022 23:23,17.0,Spotify,4.0,No,Yes,No,Classical,Yes,Yes,7.0,9.0,2.0,8.0,Worsen
+247,8/28/2022 23:26,25.0,Apple Music,2.0,No,No,No,EDM,No,Yes,10.0,3.0,1.0,4.0,Improve
+248,8/28/2022 23:34,20.0,Spotify,2.0,No,Yes,Yes,Metal,No,Yes,0.0,0.0,0.0,1.0,No effect
+249,8/28/2022 23:34,15.0,Spotify,2.0,Yes,No,No,EDM,No,No,9.0,6.0,1.0,7.0,No effect
+250,8/28/2022 23:40,16.0,Spotify,4.0,Yes,No,Yes,Lofi,Yes,No,7.0,1.0,3.0,5.0,Improve
+251,8/28/2022 23:42,20.0,Spotify,2.0,Yes,Yes,No,EDM,No,Yes,9.0,7.0,5.0,7.0,Improve
+252,8/28/2022 23:47,23.0,Other streaming service,6.0,Yes,No,No,Rap,Yes,Yes,3.0,1.0,2.0,7.0,Improve
+253,8/28/2022 23:50,22.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,6.0,6.0,8.0,0.0,Improve
+254,8/28/2022 23:54,15.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,Yes,Yes,10.0,6.0,0.0,4.0,Improve
+255,8/28/2022 23:56,17.0,I do not use a streaming service.,0.5,Yes,Yes,No,Video game music,No,Yes,6.0,3.0,1.0,1.0,Improve
+256,8/29/2022 0:03,22.0,YouTube Music,1.0,Yes,No,No,Video game music,Yes,Yes,3.0,3.0,0.0,7.0,No effect
+257,8/29/2022 0:05,21.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,9.0,10.0,2.0,2.0,No effect
+258,8/29/2022 0:05,19.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,7.0,5.0,0.0,2.0,No effect
+259,8/29/2022 0:21,32.0,Apple Music,0.5,No,No,No,Classical,Yes,No,3.0,0.0,4.0,4.0,No effect
+260,8/29/2022 0:32,34.0,YouTube Music,1.0,No,No,No,Rock,No,Yes,9.0,9.0,6.0,4.0,Improve
+261,8/29/2022 0:33,18.0,I do not use a streaming service.,2.0,Yes,Yes,No,Metal,Yes,Yes,5.0,7.0,7.0,2.0,Improve
+262,8/29/2022 0:33,21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,0.0,8.0,0.0,5.0,Improve
+263,8/29/2022 0:39,20.0,Spotify,3.0,No,No,No,Country,Yes,Yes,8.0,4.0,3.0,4.0,Improve
+264,8/29/2022 0:39,19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,7.0,2.0,0.0,7.0,No effect
+265,8/29/2022 0:47,25.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,Yes,9.0,9.0,6.0,9.0,No effect
+266,8/29/2022 0:47,31.0,Spotify,8.0,Yes,Yes,No,Classical,Yes,Yes,5.0,7.0,5.0,4.0,Improve
+267,8/29/2022 0:50,21.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,5.0,1.0,0.0,0.0,Improve
+268,8/29/2022 0:50,31.0,YouTube Music,1.0,No,No,Yes,Folk,Yes,Yes,4.0,1.0,3.0,0.0,Improve
+269,8/29/2022 0:54,20.0,YouTube Music,1.0,No,No,No,Pop,Yes,No,3.0,5.0,3.0,0.0,Improve
+270,8/29/2022 0:59,19.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,2.0,2.0,0.0,6.0,Improve
+271,8/29/2022 1:06,19.0,Other streaming service,5.0,Yes,No,No,EDM,Yes,Yes,0.0,1.0,3.0,5.0,Improve
+272,8/29/2022 1:17,23.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,7.0,8.0,6.0,2.0,Improve
+273,8/29/2022 1:22,24.0,I do not use a streaming service.,8.0,Yes,No,Yes,Video game music,Yes,No,6.0,4.0,8.0,8.0,Improve
+274,8/29/2022 1:26,20.0,Other streaming service,0.7,No,No,No,Rock,No,No,5.0,6.0,8.0,2.0,Improve
+275,8/29/2022 1:34,15.0,Spotify,3.0,No,No,No,Video game music,No,No,6.0,6.0,2.0,6.0,No effect
+276,8/29/2022 1:34,17.0,Spotify,7.0,Yes,No,No,Hip hop,No,Yes,8.0,9.0,3.0,4.0,Improve
+277,8/29/2022 1:54,20.0,I do not use a streaming service.,1.5,No,Yes,Yes,Video game music,No,Yes,8.0,4.0,3.0,3.0,Worsen
+278,8/29/2022 1:59,14.0,Spotify,4.0,Yes,Yes,Yes,Video game music,Yes,Yes,8.0,6.0,5.0,7.0,Improve
+279,8/29/2022 2:03,24.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,8.0,8.0,7.0,7.0,Improve
+280,8/29/2022 2:06,14.0,Other streaming service,10.0,Yes,No,Yes,Video game music,No,No,5.0,2.0,5.0,0.0,Improve
+281,8/29/2022 2:10,23.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,6.0,8.0,4.0,2.0,No effect
+282,8/29/2022 2:22,28.0,Apple Music,2.0,Yes,No,No,Rock,No,No,7.0,5.0,2.0,1.0,No effect
+283,8/29/2022 2:25,22.0,Spotify,6.0,Yes,No,No,Jazz,Yes,Yes,8.0,8.0,7.0,1.0,Improve
+284,8/29/2022 2:28,25.0,Spotify,0.5,Yes,Yes,No,Rock,Yes,Yes,10.0,2.0,0.0,0.0,Improve
+285,8/29/2022 2:29,27.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,Yes,8.0,7.0,7.0,5.0,Improve
+286,8/29/2022 2:30,18.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,8.0,8.0,8.0,6.0,Improve
+287,8/29/2022 2:30,17.0,Apple Music,3.0,Yes,Yes,Yes,Pop,Yes,No,8.0,10.0,9.0,2.0,Improve
+288,8/29/2022 2:40,23.0,Other streaming service,4.5,Yes,No,No,Rock,No,Yes,6.0,1.0,8.0,4.0,No effect
+289,8/29/2022 2:43,40.0,Other streaming service,3.0,Yes,No,No,Rock,Yes,Yes,0.0,4.0,4.0,0.0,Improve
+290,8/29/2022 2:46,27.0,Spotify,20.0,Yes,No,No,Rock,Yes,Yes,8.0,10.0,10.0,8.0,No effect
+291,8/29/2022 2:46,18.0,Spotify,1.0,No,No,No,Pop,Yes,No,3.0,2.0,0.0,1.0,No effect
+292,8/29/2022 2:49,16.0,Spotify,2.5,No,Yes,Yes,Metal,Yes,No,5.0,3.0,3.0,1.0,Improve
+293,8/29/2022 2:54,18.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,8.0,9.0,6.0,1.0,Improve
+294,8/29/2022 3:01,23.0,Spotify,2.0,No,Yes,No,Jazz,No,Yes,10.0,3.0,0.0,10.0,No effect
+295,8/29/2022 3:09,15.0,I do not use a streaming service.,5.0,Yes,Yes,No,Metal,Yes,No,6.0,7.0,8.0,2.0,Improve
+296,8/29/2022 3:13,20.0,Apple Music,3.0,Yes,Yes,No,Metal,Yes,No,7.0,4.0,7.0,0.0,Improve
+297,8/29/2022 3:14,16.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,9.0,8.0,6.0,2.0,Improve
+298,8/29/2022 3:17,16.0,Spotify,0.5,No,No,No,Rock,No,Yes,8.0,0.0,0.0,0.0,Improve
+299,8/29/2022 3:21,20.0,Apple Music,8.0,Yes,Yes,Yes,Country,Yes,No,8.0,9.0,2.0,5.0,No effect
+300,8/29/2022 3:29,33.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,7.0,2.0,3.0,0.0,Improve
+301,8/29/2022 3:32,22.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,10.0,10.0,4.0,0.0,Improve
+302,8/29/2022 3:44,21.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,8.0,8.0,3.0,3.0,Improve
+303,8/29/2022 3:46,21.0,Apple Music,5.0,Yes,Yes,No,Metal,Yes,Yes,8.0,7.0,7.0,4.0,Improve
+304,8/29/2022 3:47,29.0,Apple Music,1.5,Yes,No,Yes,Rock,Yes,Yes,8.0,7.0,1.0,2.0,Improve
+305,8/29/2022 3:49,56.0,I do not use a streaming service.,1.0,Yes,No,No,Pop,No,No,6.0,5.0,10.0,2.0,No effect
+306,8/29/2022 4:02,17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,7.0,6.0,0.0,4.0,Improve
+307,8/29/2022 4:02,22.0,Spotify,1.0,Yes,No,No,Pop,No,No,7.0,4.0,0.0,0.0,Improve
+308,8/29/2022 4:10,26.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,8.0,7.0,2.0,10.0,No effect
+309,8/29/2022 4:17,30.0,Spotify,1.0,Yes,No,No,EDM,Yes,Yes,4.0,4.0,4.0,0.0,Improve
+310,8/29/2022 4:36,49.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,0.0,0.0,2.0,0.0,No effect
+311,8/29/2022 4:37,22.0,Spotify,2.0,Yes,Yes,Yes,EDM,Yes,Yes,6.0,4.0,0.0,1.0,Improve
+312,8/29/2022 4:41,32.0,Spotify,2.0,No,No,No,Rock,Yes,No,4.0,7.0,0.0,0.0,Improve
+313,8/29/2022 4:42,32.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,8.0,4.0,3.0,0.0,No effect
+314,8/29/2022 4:51,22.0,YouTube Music,6.0,Yes,No,No,Country,Yes,No,5.0,5.0,3.0,3.0,Improve
+315,8/29/2022 4:53,17.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,0.0,8.0,0.0,0.0,Improve
+316,8/29/2022 4:57,21.0,Spotify,4.0,Yes,Yes,No,Rock,Yes,No,7.0,4.0,6.0,1.0,Improve
+317,8/29/2022 5:06,17.0,Spotify,1.5,Yes,No,No,Rock,Yes,Yes,8.0,7.0,7.0,3.0,No effect
+318,8/29/2022 5:08,25.0,Spotify,3.0,Yes,No,No,Metal,No,No,9.0,8.0,6.0,2.0,Improve
+319,8/29/2022 5:14,15.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,No,8.0,6.0,4.0,0.0,Improve
+320,8/29/2022 5:20,13.0,Spotify,10.0,Yes,No,No,Rap,Yes,No,7.0,2.0,0.0,8.0,Improve
+321,8/29/2022 5:22,38.0,Spotify,3.0,Yes,No,No,Rock,No,Yes,6.0,7.0,7.0,7.0,No effect
+322,8/29/2022 5:35,23.0,Apple Music,3.0,No,No,No,Rock,Yes,No,7.0,6.0,4.0,2.0,Improve
+323,8/29/2022 5:37,17.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,1.0,1.0,1.0,0.0,Improve
+324,8/29/2022 5:41,59.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,1.0,1.0,3.0,0.0,Improve
+325,8/29/2022 5:45,22.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,2.0,7.0,1.0,2.0,Improve
+326,8/29/2022 5:50,17.0,Apple Music,3.0,Yes,No,No,Pop,Yes,Yes,6.0,2.0,3.0,1.0,No effect
+327,8/29/2022 6:00,27.0,Spotify,2.0,No,No,No,Pop,No,No,7.0,7.0,3.0,2.0,No effect
+328,8/29/2022 6:13,23.0,Spotify,5.0,Yes,Yes,No,Video game music,No,No,8.0,7.0,0.0,3.0,No effect
+329,8/29/2022 6:31,15.0,Spotify,6.0,Yes,No,No,Rock,No,No,8.0,3.0,5.0,2.0,Improve
+330,8/29/2022 6:44,22.0,Spotify,3.0,Yes,Yes,Yes,EDM,Yes,No,5.0,4.0,2.0,0.0,Improve
+331,8/29/2022 6:58,23.0,Spotify,5.0,Yes,No,No,Lofi,Yes,Yes,7.0,10.0,10.0,1.0,Improve
+332,8/29/2022 7:11,19.0,Spotify,5.0,Yes,No,No,Country,Yes,Yes,7.0,6.0,8.0,4.0,Improve
+333,8/29/2022 7:17,32.0,Spotify,6.0,Yes,No,No,Rock,No,No,8.0,7.0,0.0,9.0,Improve
+334,8/29/2022 7:48,40.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,10.0,7.0,3.0,3.0,No effect
+335,8/29/2022 7:52,21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,6.0,5.0,5.0,3.0,Improve
+336,8/29/2022 7:53,21.0,Spotify,10.0,Yes,No,No,Rock,Yes,Yes,8.0,7.0,6.0,8.0,No effect
+337,8/29/2022 8:23,23.0,Spotify,2.0,Yes,No,No,Video game music,Yes,Yes,10.0,7.0,7.0,3.0,Worsen
+339,8/29/2022 8:37,35.0,Spotify,3.0,No,Yes,No,Folk,Yes,No,8.0,2.0,2.0,8.0,No effect
+340,8/29/2022 8:38,18.0,Spotify,1.5,No,No,No,Hip hop,No,No,3.0,7.0,4.0,0.0,Improve
+341,8/29/2022 8:39,21.0,I do not use a streaming service.,10.0,Yes,No,No,Pop,Yes,No,9.0,7.0,5.0,5.0,Improve
+342,8/29/2022 8:47,22.0,I do not use a streaming service.,2.0,Yes,No,No,Video game music,No,Yes,5.0,3.0,0.0,0.0,Improve
+343,8/29/2022 9:01,23.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,10.0,7.0,0.0,10.0,Improve
+344,8/29/2022 9:07,13.0,Spotify,2.5,Yes,No,No,Folk,No,No,8.0,0.0,0.0,3.0,Improve
+345,8/29/2022 9:13,19.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,6.0,0.0,3.0,0.0,Improve
+346,8/29/2022 9:26,33.0,YouTube Music,0.5,Yes,Yes,No,Rock,No,No,7.0,9.0,4.0,6.0,Improve
+347,8/29/2022 9:42,18.0,Spotify,16.0,Yes,No,Yes,Jazz,Yes,Yes,3.0,2.0,5.0,6.0,Improve
+348,8/29/2022 9:43,17.0,YouTube Music,6.0,Yes,Yes,No,Classical,Yes,Yes,4.0,2.0,0.0,0.0,Improve
+349,8/29/2022 9:47,16.0,Spotify,3.0,Yes,No,No,EDM,Yes,Yes,4.0,2.0,0.0,0.0,Improve
+350,8/29/2022 9:47,18.0,YouTube Music,0.5,No,No,No,Rock,Yes,No,5.0,3.0,1.0,0.0,No effect
+351,8/29/2022 9:52,19.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,4.0,2.0,2.0,1.0,Improve
+352,8/29/2022 9:56,15.0,YouTube Music,2.0,No,Yes,No,Rap,Yes,Yes,4.0,0.0,6.0,5.0,No effect
+353,8/29/2022 10:23,17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,7.0,6.0,3.0,1.0,Improve
+354,8/29/2022 10:23,25.0,Spotify,2.0,Yes,No,No,Lofi,Yes,Yes,7.0,8.0,6.0,2.0,Improve
+355,8/29/2022 10:25,24.0,Other streaming service,1.5,Yes,No,No,Video game music,No,Yes,3.0,4.0,1.0,1.0,Improve
+356,8/29/2022 10:41,23.0,Spotify,1.0,Yes,Yes,No,Jazz,Yes,No,9.0,7.0,2.0,1.0,Improve
+357,8/29/2022 10:44,16.0,Spotify,10.0,Yes,Yes,No,EDM,Yes,Yes,10.0,9.0,3.0,2.0,Improve
+358,8/29/2022 10:45,25.0,YouTube Music,2.0,Yes,No,No,Metal,Yes,Yes,9.0,9.0,7.0,3.0,Improve
+359,8/29/2022 11:02,16.0,Spotify,15.0,Yes,Yes,Yes,EDM,Yes,No,8.0,10.0,9.0,2.0,Improve
+360,8/29/2022 11:04,20.0,I do not use a streaming service.,0.5,No,No,No,Metal,Yes,Yes,8.0,9.0,6.0,4.0,Improve
+361,8/29/2022 11:16,17.0,Spotify,3.0,Yes,No,No,Metal,Yes,No,5.0,6.0,9.0,9.0,Improve
+362,8/29/2022 11:41,29.0,I do not use a streaming service.,2.0,Yes,No,No,Metal,Yes,No,9.0,3.0,7.0,2.0,Improve
+363,8/29/2022 11:56,20.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,3.0,2.0,1.0,6.0,Improve
+364,8/29/2022 12:25,16.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,7.0,7.0,4.0,0.0,Improve
+365,8/29/2022 12:30,21.0,Spotify,1.0,Yes,No,No,Rock,Yes,No,7.0,9.0,1.0,2.0,Improve
+366,8/29/2022 12:32,16.0,Spotify,24.0,Yes,No,No,Rock,Yes,Yes,5.0,1.0,9.0,1.0,Improve
+367,8/29/2022 13:09,43.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,3.0,3.0,0.0,0.0,Improve
+368,8/29/2022 14:13,32.0,Pandora,2.0,Yes,Yes,No,Classical,Yes,No,8.0,7.0,5.0,4.0,Improve
+369,8/29/2022 14:25,10.0,YouTube Music,2.0,Yes,Yes,No,Pop,Yes,Yes,8.0,2.0,1.0,1.0,Improve
+370,8/29/2022 14:49,27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,4.0,0.0,0.0,0.0,Improve
+371,8/29/2022 14:53,24.0,Spotify,3.0,Yes,Yes,No,Classical,No,Yes,9.0,6.0,1.0,1.0,Improve
+372,8/29/2022 15:05,18.0,Spotify,2.0,Yes,No,No,Hip hop,Yes,Yes,10.0,7.0,2.0,0.0,Improve
+373,8/29/2022 15:18,17.0,Apple Music,7.0,Yes,No,No,Rock,No,No,8.0,7.0,7.0,4.0,Improve
+374,8/29/2022 15:20,19.0,Spotify,6.0,Yes,No,No,Metal,Yes,No,1.0,0.0,0.0,0.0,Improve
+375,8/29/2022 16:05,16.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,Yes,5.0,7.0,1.0,4.0,Improve
+376,8/29/2022 16:07,64.0,Other streaming service,5.0,Yes,No,Yes,Rock,Yes,No,7.0,6.0,9.0,2.0,Improve
+377,8/29/2022 16:28,33.0,Apple Music,4.0,Yes,Yes,Yes,Lofi,Yes,Yes,8.0,8.0,2.0,2.0,Improve
+378,8/29/2022 16:39,32.0,I do not use a streaming service.,3.0,Yes,Yes,No,Rock,No,Yes,2.0,2.0,8.0,0.0,No effect
+379,8/29/2022 17:04,15.0,Pandora,2.0,Yes,Yes,No,Pop,Yes,No,6.0,0.0,0.0,2.0,Improve
+380,8/29/2022 17:22,27.0,YouTube Music,3.0,Yes,No,No,Metal,Yes,Yes,2.0,0.0,1.0,0.0,Improve
+381,8/29/2022 17:32,20.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,Yes,No,6.0,2.0,6.0,7.0,No effect
+382,8/29/2022 17:36,23.0,I do not use a streaming service.,2.0,Yes,No,No,Pop,Yes,Yes,6.0,1.0,0.0,5.0,Improve
+383,8/29/2022 17:52,19.0,Apple Music,3.0,No,Yes,No,Classical,Yes,No,7.0,6.0,4.0,0.0,Improve
+384,8/29/2022 17:58,12.0,YouTube Music,2.0,Yes,Yes,Yes,Classical,No,No,0.0,0.0,3.0,0.0,Improve
+385,8/29/2022 18:00,16.0,Other streaming service,3.0,Yes,Yes,Yes,Classical,No,No,9.0,7.0,10.0,6.0,No effect
+386,8/29/2022 18:09,17.0,Other streaming service,0.0,No,No,No,Video game music,No,Yes,10.0,0.0,0.0,0.0,No effect
+387,8/29/2022 18:13,14.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,No,6.0,6.0,3.0,0.0,Improve
+388,8/29/2022 18:22,32.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,4.0,3.0,1.0,6.0,Improve
+389,8/29/2022 18:47,20.0,Spotify,2.0,Yes,Yes,No,Pop,No,Yes,6.0,2.0,2.0,1.0,No effect
+390,8/29/2022 18:56,54.0,I do not use a streaming service.,6.0,Yes,No,No,Classical,No,No,2.0,2.0,3.0,2.0,Improve
+391,8/29/2022 18:57,18.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,7.0,4.0,5.0,6.0,Improve
+392,8/29/2022 19:07,14.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,No,7.0,5.0,3.0,2.0,Improve
+393,8/29/2022 19:08,13.0,Other streaming service,4.0,Yes,Yes,Yes,Classical,Yes,No,8.0,5.0,10.0,3.0,Improve
+394,8/29/2022 19:44,19.0,Apple Music,8.0,Yes,No,Yes,Country,Yes,No,7.0,5.0,6.0,5.0,Improve
+395,8/29/2022 20:03,14.0,Spotify,4.0,Yes,Yes,No,Classical,Yes,No,6.0,8.0,8.0,2.0,Improve
+397,8/29/2022 20:04,18.0,Apple Music,2.0,Yes,Yes,No,Rap,Yes,Yes,3.0,2.0,0.0,2.0,Improve
+398,8/29/2022 20:12,15.0,Spotify,5.0,Yes,No,No,Folk,Yes,Yes,6.0,7.0,7.0,4.0,Improve
+399,8/29/2022 20:18,24.0,YouTube Music,6.0,Yes,Yes,No,Classical,No,No,6.0,7.0,2.0,0.0,No effect
+400,8/29/2022 20:22,17.0,Apple Music,2.0,Yes,No,No,Pop,No,Yes,9.0,8.0,4.0,8.0,Improve
+401,8/29/2022 20:47,44.0,Spotify,2.0,No,No,No,Rock,Yes,No,7.0,7.0,2.0,1.0,Improve
+402,8/29/2022 21:21,23.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,1.0,0.0,1.0,0.0,Improve
+403,8/29/2022 21:24,21.0,Apple Music,1.0,No,No,No,Rap,No,No,4.0,3.0,4.0,5.0,Improve
+404,8/29/2022 22:00,57.0,Other streaming service,2.0,No,No,No,R&B,Yes,No,2.0,0.0,0.0,0.0,Improve
+405,8/29/2022 22:04,23.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,0.0,5.0,7.0,0.0,No effect
+406,8/29/2022 22:52,18.0,Spotify,1.0,Yes,Yes,No,Pop,No,Yes,8.0,7.0,7.0,0.0,Improve
+407,8/29/2022 23:20,26.0,Spotify,14.0,Yes,No,No,Hip hop,Yes,Yes,5.0,10.0,8.0,0.0,No effect
+409,8/30/2022 0:00,15.0,Spotify,3.0,Yes,Yes,Yes,Classical,Yes,No,9.0,6.0,8.0,5.0,Improve
+410,8/30/2022 0:14,57.0,YouTube Music,2.0,Yes,Yes,Yes,Rock,Yes,No,2.0,2.0,7.0,0.0,No effect
+411,8/30/2022 1:01,12.0,Spotify,0.5,Yes,Yes,Yes,Classical,Yes,Yes,7.0,8.0,6.0,2.0,Improve
+412,8/30/2022 5:16,26.0,Spotify,6.0,Yes,No,No,EDM,No,Yes,10.0,10.0,8.0,2.0,No effect
+413,8/30/2022 6:05,17.0,Spotify,1.0,Yes,Yes,No,Country,No,No,8.0,5.0,2.0,3.0,Improve
+414,8/30/2022 6:10,17.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,Yes,7.0,8.0,2.0,5.0,Improve
+415,8/30/2022 8:00,69.0,Pandora,4.0,Yes,Yes,Yes,Classical,Yes,Yes,1.0,1.0,2.0,0.0,Improve
+416,8/30/2022 9:35,17.0,Spotify,3.0,Yes,Yes,Yes,R&B,Yes,Yes,9.0,10.0,10.0,3.0,No effect
+417,8/30/2022 10:10,32.0,Spotify,12.0,Yes,Yes,Yes,Jazz,Yes,Yes,9.0,4.0,4.0,4.0,Improve
+418,8/30/2022 11:05,22.0,YouTube Music,3.0,No,Yes,No,Classical,Yes,No,8.0,2.0,4.0,0.0,No effect
+419,8/30/2022 11:12,38.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,1.0,1.0,5.0,1.0,Improve
+420,8/30/2022 12:03,18.0,YouTube Music,10.0,Yes,No,No,EDM,Yes,No,10.0,9.0,9.0,8.0,Improve
+421,8/30/2022 13:07,14.0,Spotify,5.0,Yes,Yes,No,Classical,Yes,Yes,3.0,0.0,2.0,3.0,Improve
+422,8/30/2022 14:25,14.0,Other streaming service,0.5,Yes,Yes,No,Video game music,Yes,Yes,4.0,0.0,4.0,0.0,Improve
+423,8/30/2022 14:43,19.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,2.0,3.0,5.0,2.0,Improve
+424,8/30/2022 16:04,20.0,YouTube Music,3.0,Yes,Yes,Yes,Classical,Yes,No,2.0,3.0,3.0,0.0,Improve
+425,8/30/2022 16:43,18.0,Spotify,2.0,No,No,No,Rock,Yes,No,8.0,4.0,3.0,0.0,Improve
+427,8/30/2022 17:33,31.0,I do not use a streaming service.,4.0,Yes,Yes,No,Classical,Yes,Yes,8.0,8.0,9.0,3.0,Improve
+428,8/30/2022 17:43,72.0,Spotify,6.0,Yes,Yes,Yes,Rock,No,No,0.0,1.0,0.0,2.0,Improve
+429,8/30/2022 18:15,73.0,Pandora,3.0,Yes,No,No,R&B,Yes,Yes,5.0,4.0,0.0,1.0,Improve
+430,8/31/2022 1:39,16.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,7.5,5.0,7.0,8.5,Improve
+431,8/31/2022 5:45,19.0,YouTube Music,3.0,No,Yes,No,Rap,Yes,Yes,3.0,3.0,0.0,0.0,Improve
+432,8/31/2022 6:36,16.0,Spotify,2.0,Yes,Yes,No,Classical,No,No,7.0,5.0,3.0,1.0,Improve
+433,8/31/2022 8:04,12.0,Spotify,2.0,Yes,Yes,Yes,Classical,Yes,Yes,8.0,0.0,1.0,6.0,Improve
+434,8/31/2022 8:35,39.0,Spotify,1.0,Yes,No,No,Hip hop,Yes,Yes,6.0,4.0,1.0,1.0,Improve
+435,8/31/2022 9:42,15.0,Spotify,6.0,Yes,Yes,No,K pop,Yes,Yes,8.0,8.0,7.0,10.0,No effect
+436,8/31/2022 12:53,14.0,Spotify,9.0,Yes,No,No,R&B,Yes,Yes,10.0,8.0,9.0,5.0,Improve
+437,8/31/2022 13:20,21.0,Spotify,1.0,No,No,No,Country,No,No,3.0,0.0,2.0,0.0,Improve
+438,8/31/2022 14:28,38.0,Apple Music,1.0,Yes,No,No,Video game music,No,No,5.0,5.0,7.0,1.0,Worsen
+439,8/31/2022 15:48,23.0,Spotify,0.5,No,No,Yes,Hip hop,Yes,Yes,7.0,7.0,6.0,5.0,Improve
+440,8/31/2022 16:47,16.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,7.0,4.0,6.0,3.0,Improve
+442,8/31/2022 18:56,13.0,Spotify,6.0,Yes,No,No,Rap,Yes,No,4.0,0.0,0.0,2.0,Worsen
+443,8/31/2022 20:40,16.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,3.0,0.0,6.0,9.0,Improve
+444,8/31/2022 21:04,18.0,Spotify,6.0,Yes,No,Yes,Rock,Yes,No,5.0,1.0,6.0,0.0,Improve
+445,8/31/2022 23:09,21.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,10.0,6.0,8.0,0.0,Improve
+446,09-01-22 1:16,17.0,Spotify,1.5,Yes,No,No,Classical,Yes,Yes,7.0,5.0,1.0,2.0,No effect
+447,09-01-22 2:32,24.0,Apple Music,2.0,Yes,No,No,Rock,Yes,Yes,7.0,7.0,0.0,4.0,No effect
+448,09-01-22 3:38,14.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,6.0,0.0,0.0,0.0,Improve
+449,09-01-22 5:01,25.0,Spotify,4.0,Yes,No,No,Rock,Yes,Yes,6.0,2.0,3.0,2.0,Improve
+450,09-01-22 5:20,22.0,Spotify,3.0,Yes,No,No,Lofi,Yes,Yes,7.0,6.0,7.0,9.0,Improve
+451,09-01-22 9:25,20.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,5.0,7.0,7.0,0.0,No effect
+452,09-01-22 12:04,23.0,Spotify,2.0,Yes,No,No,Pop,No,No,7.0,6.0,4.0,3.0,Improve
+453,09-01-22 13:13,61.0,Pandora,2.0,Yes,No,No,Rock,Yes,No,2.0,2.0,2.0,0.0,Improve
+454,09-01-22 13:14,24.0,Spotify,6.0,Yes,No,No,Video game music,No,Yes,9.0,5.0,0.0,7.0,Improve
+455,09-01-22 14:56,34.0,Spotify,0.0,No,Yes,No,Rock,No,Yes,3.0,7.0,8.0,0.0,Worsen
+456,09-01-22 14:57,49.0,Spotify,1.0,No,No,No,Pop,Yes,No,4.0,5.0,9.0,1.0,Improve
+457,09-01-22 14:59,33.0,I do not use a streaming service.,4.0,Yes,Yes,No,Rock,Yes,Yes,1.0,0.0,7.0,0.0,Improve
+458,09-01-22 15:01,22.0,I do not use a streaming service.,2.0,No,Yes,Yes,Metal,No,No,3.0,2.0,0.0,2.0,No effect
+459,09-01-22 15:05,38.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,1.0,6.0,1.0,2.0,Improve
+460,09-01-22 15:21,23.0,YouTube Music,4.0,No,No,No,Hip hop,Yes,No,8.0,10.0,4.0,0.0,No effect
+461,09-01-22 15:24,34.0,I do not use a streaming service.,2.0,No,No,No,Video game music,No,Yes,8.0,10.0,10.0,0.0,No effect
+462,09-01-22 15:24,40.0,Other streaming service,3.0,Yes,No,No,Metal,Yes,Yes,3.0,0.0,8.0,1.0,No effect
+463,09-01-22 15:26,27.0,Spotify,1.0,No,No,No,Hip hop,Yes,No,3.0,4.0,1.0,0.0,Improve
+464,09-01-22 15:36,54.0,YouTube Music,10.0,Yes,No,No,Rock,Yes,No,2.0,1.0,2.0,2.0,Improve
+465,09-01-22 15:50,16.0,Spotify,10.0,No,No,No,Rock,Yes,No,0.0,0.0,0.0,0.0,No effect
+466,09-01-22 16:00,23.0,I do not use a streaming service.,10.0,Yes,No,No,Video game music,No,Yes,8.0,8.0,5.0,0.0,Improve
+467,09-01-22 16:06,35.0,Spotify,4.0,No,No,No,Country,Yes,No,1.0,1.0,1.0,0.0,No effect
+468,09-01-22 16:11,22.0,YouTube Music,4.0,Yes,No,No,Folk,Yes,Yes,8.0,7.0,6.0,2.0,Improve
+469,09-01-22 16:30,41.0,Spotify,3.0,No,No,No,Metal,Yes,Yes,6.0,5.0,4.0,0.0,No effect
+470,09-01-22 16:35,63.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,5.0,4.0,6.0,2.0,Improve
+471,09-01-22 16:38,28.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,3.0,1.0,0.0,2.0,No effect
+472,09-01-22 16:38,22.0,Spotify,6.0,Yes,Yes,No,Country,Yes,No,4.0,8.0,2.0,2.0,Improve
+473,09-01-22 16:43,58.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,5.0,6.0,3.0,1.0,Improve
+474,09-01-22 16:58,58.0,YouTube Music,1.0,Yes,Yes,Yes,Classical,Yes,No,0.0,0.0,2.0,1.0,Improve
+475,09-01-22 17:00,67.0,Other streaming service,4.0,Yes,No,No,Rock,No,No,7.0,6.0,7.0,4.0,Improve
+476,09-01-22 17:17,70.0,I do not use a streaming service.,2.0,Yes,No,No,Country,No,No,8.0,5.0,6.0,1.0,Improve
+477,09-01-22 17:27,60.0,YouTube Music,2.0,Yes,No,No,Rock,No,Yes,4.0,4.0,2.0,0.0,Improve
+478,09-01-22 17:33,15.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,9.0,8.0,10.0,9.0,Improve
+479,09-01-22 17:48,18.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,5.0,5.0,7.0,0.0,Improve
+480,09-01-22 17:51,58.0,Other streaming service,3.0,Yes,No,No,Hip hop,Yes,Yes,4.0,6.0,8.0,1.0,Improve
+481,09-01-22 18:02,28.0,Other streaming service,1.0,Yes,No,No,Lofi,Yes,Yes,4.0,8.0,5.0,0.0,Improve
+482,09-01-22 18:10,22.0,Spotify,4.0,Yes,Yes,No,Lofi,Yes,No,9.0,10.0,6.0,7.0,Improve
+483,09-01-22 18:11,49.0,YouTube Music,0.5,No,No,No,Classical,No,No,3.0,2.0,2.0,2.0,Improve
+484,09-01-22 18:38,20.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,Yes,6.0,2.0,2.0,1.0,Improve
+485,09-01-22 19:08,55.0,YouTube Music,15.0,Yes,No,No,Rock,No,No,2.0,0.0,3.0,0.0,No effect
+486,09-01-22 19:09,48.0,Spotify,1.5,Yes,Yes,No,Metal,No,No,10.0,8.0,0.0,4.0,Improve
+487,09-01-22 19:36,14.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,4.0,4.0,2.0,2.0,Improve
+488,09-01-22 19:39,18.0,Spotify,3.0,Yes,Yes,No,Pop,Yes,Yes,7.0,8.0,6.0,2.0,Improve
+489,09-01-22 19:39,25.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,7.0,6.0,5.0,5.0,Improve
+490,09-01-22 19:44,71.0,I do not use a streaming service.,0.25,Yes,No,No,Gospel,No,Yes,1.0,0.0,0.0,0.0,Improve
+491,09-01-22 20:02,60.0,YouTube Music,1.0,No,Yes,Yes,Gospel,No,No,6.0,2.0,8.0,0.0,Improve
+492,09-01-22 20:36,18.0,I do not use a streaming service.,1.0,Yes,No,Yes,Video game music,No,No,4.0,5.0,7.0,0.0,No effect
+493,09-01-22 21:05,19.0,Spotify,5.0,Yes,No,No,Hip hop,No,Yes,10.0,7.0,0.0,0.0,Improve
+494,09-01-22 21:07,74.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,4.0,2.0,1.0,0.0,Improve
+495,09-01-22 21:14,36.0,Pandora,1.0,Yes,No,No,Hip hop,No,No,7.0,6.0,2.0,3.0,Improve
+496,09-01-22 21:24,14.0,Spotify,7.0,Yes,No,No,Lofi,Yes,Yes,3.0,2.0,8.0,0.0,Improve
+497,09-01-22 21:44,20.0,Spotify,3.0,No,Yes,Yes,Hip hop,Yes,Yes,10.0,7.0,4.0,3.0,Improve
+498,09-01-22 22:38,15.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,4.0,0.0,0.0,0.0,No effect
+499,09-01-22 23:11,19.0,I do not use a streaming service.,7.0,Yes,No,No,Rock,No,No,7.0,7.0,0.0,0.0,Improve
+500,09-02-22 0:08,29.0,Spotify,8.0,Yes,No,No,EDM,No,Yes,6.0,7.0,4.0,1.0,Improve
+501,09-02-22 0:20,24.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,7.0,6.0,2.0,7.0,Improve
+502,09-02-22 0:32,18.0,Apple Music,2.0,Yes,No,No,Pop,Yes,Yes,6.0,5.0,8.0,0.0,Improve
+503,09-02-22 1:03,21.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,10.0,10.0,2.0,3.0,Improve
+504,09-02-22 1:59,19.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,7.0,6.0,5.0,1.0,Improve
+505,09-02-22 2:19,25.0,Spotify,4.0,No,No,No,Video game music,Yes,Yes,3.0,0.0,0.0,0.0,Improve
+506,09-02-22 3:06,28.0,Spotify,8.0,Yes,No,No,Rock,Yes,Yes,8.0,2.0,1.0,0.0,No effect
+507,09-02-22 3:27,27.0,Other streaming service,4.0,Yes,No,No,Rap,Yes,No,7.0,6.0,6.0,5.0,Improve
+508,09-02-22 3:32,60.0,Spotify,1.0,No,No,No,Rock,Yes,No,3.0,2.0,5.0,0.0,No effect
+509,09-02-22 3:36,25.0,YouTube Music,5.0,No,No,No,Metal,No,Yes,8.0,2.0,1.0,0.0,Improve
+510,09-02-22 4:06,60.0,Other streaming service,2.0,Yes,No,No,Rock,No,No,7.0,7.0,2.0,4.0,Improve
+511,09-02-22 4:56,43.0,Other streaming service,1.0,No,No,No,Country,No,No,5.0,1.0,1.0,1.0,Improve
+512,09-02-22 4:56,51.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,No,No,1.0,2.0,1.0,0.0,No effect
+513,09-02-22 5:21,63.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,No,2.0,1.0,2.0,2.0,Improve
+514,09-02-22 5:40,64.0,YouTube Music,2.0,Yes,No,No,Classical,No,No,5.0,2.0,4.0,0.0,Improve
+515,09-02-22 5:49,22.0,Spotify,2.0,Yes,No,No,Pop,No,No,7.0,2.0,1.0,0.0,Improve
+516,09-02-22 6:20,24.0,YouTube Music,1.0,Yes,No,No,Folk,No,Yes,10.0,10.0,7.0,8.0,Improve
+517,09-02-22 6:41,19.0,Spotify,8.0,Yes,No,No,Pop,Yes,Yes,7.0,2.0,1.0,6.0,Improve
+518,09-02-22 7:13,56.0,Apple Music,8.0,Yes,No,No,Pop,Yes,No,6.0,4.0,1.0,0.0,Improve
+519,09-02-22 7:13,20.0,Spotify,1.0,No,No,No,EDM,Yes,No,5.0,9.0,6.0,1.0,Improve
+520,09-02-22 7:29,19.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,7.0,5.0,7.0,0.0,Improve
+521,09-02-22 7:53,20.0,Spotify,8.0,Yes,No,No,Jazz,Yes,Yes,7.0,6.0,7.0,4.0,Improve
+522,09-02-22 8:05,60.0,Spotify,2.0,Yes,No,No,Rock,No,No,0.0,0.0,0.0,0.0,Improve
+523,09-02-22 8:06,65.0,Apple Music,6.0,Yes,No,No,R&B,No,Yes,3.0,5.0,0.0,2.0,No effect
+524,09-02-22 9:15,28.0,Spotify,3.0,No,Yes,Yes,Metal,Yes,Yes,8.0,8.0,5.0,2.0,Improve
+525,09-02-22 9:25,18.0,I do not use a streaming service.,4.0,Yes,Yes,No,EDM,No,Yes,8.0,7.0,10.0,6.0,Improve
+526,09-02-22 9:54,42.0,Spotify,2.0,Yes,No,No,Rock,No,Yes,2.0,4.0,5.0,2.0,Improve
+527,09-02-22 14:09,80.0,I do not use a streaming service.,3.0,Yes,Yes,No,Classical,No,No,7.0,3.0,9.0,2.0,Improve
+528,09-02-22 14:31,22.0,I do not use a streaming service.,4.0,No,No,Yes,Pop,Yes,No,8.0,7.0,4.0,4.0,Improve
+529,09-02-22 15:24,56.0,Other streaming service,2.0,No,No,No,Jazz,Yes,Yes,0.0,0.0,0.0,5.0,No effect
+530,09-02-22 16:14,20.0,YouTube Music,1.0,Yes,No,No,Pop,No,Yes,8.0,6.0,9.0,8.0,Improve
+531,09-02-22 16:36,15.0,Spotify,1.0,Yes,No,No,Video game music,Yes,Yes,4.0,2.0,3.0,2.0,Improve
+533,09-02-22 19:39,57.0,Spotify,2.0,Yes,Yes,No,Gospel,No,No,6.0,4.0,10.0,0.0,Improve
+534,09-02-22 21:14,22.0,Apple Music,7.0,Yes,No,No,Pop,Yes,Yes,8.0,8.0,10.0,0.0,Improve
+535,09-02-22 21:19,17.0,Spotify,5.0,Yes,No,No,Pop,Yes,Yes,5.0,5.0,5.0,5.0,Improve
+536,09-02-22 22:18,19.0,Spotify,3.0,Yes,No,No,Rock,No,No,10.0,8.0,6.0,2.0,No effect
+537,09-03-22 3:54,50.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,0.0,0.0,7.0,0.0,Improve
+538,09-03-22 5:27,24.0,Spotify,6.0,Yes,Yes,Yes,Rock,Yes,Yes,8.0,8.0,10.0,0.0,Improve
+539,09-03-22 7:09,67.0,Apple Music,2.0,No,No,No,Rock,Yes,No,8.0,2.0,0.0,0.0,No effect
+540,09-03-22 8:53,18.0,Other streaming service,3.0,Yes,Yes,Yes,Metal,Yes,No,7.0,8.0,4.0,10.0,Improve
+541,09-03-22 10:20,20.0,Spotify,1.5,Yes,No,No,Country,No,No,0.0,2.0,0.0,1.0,Improve
+542,09-03-22 10:41,15.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,3.0,5.0,4.0,0.0,Improve
+543,09-03-22 12:26,17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,5.0,2.0,3.0,1.0,Improve
+544,09-03-22 13:52,32.0,YouTube Music,2.0,Yes,No,No,Folk,Yes,No,6.0,1.0,0.0,0.0,Improve
+545,09-03-22 14:08,18.0,Spotify,2.0,No,No,No,Rap,Yes,Yes,6.0,3.0,4.0,2.0,Improve
+546,09-03-22 14:35,18.0,Spotify,1.0,Yes,Yes,Yes,Rock,Yes,No,5.0,6.0,8.0,2.0,Improve
+547,09-03-22 15:52,18.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,8.0,4.0,7.0,5.0,Improve
+548,09-03-22 15:52,19.0,Spotify,3.0,Yes,No,No,Pop,Yes,No,1.0,1.0,2.0,3.0,Improve
+549,09-03-22 16:00,18.0,Spotify,2.0,No,Yes,No,Rock,Yes,No,8.0,3.0,1.0,3.0,Improve
+550,09-03-22 16:24,17.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,3.0,3.0,0.0,0.0,Improve
+551,09-03-22 17:14,34.0,Spotify,3.0,Yes,No,No,Classical,No,Yes,0.0,0.0,0.0,0.0,No effect
+552,09-03-22 18:01,18.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,5.0,4.0,2.0,0.0,No effect
+553,09-03-22 18:23,18.0,Spotify,2.0,Yes,No,No,R&B,Yes,No,2.0,4.0,0.0,0.0,Improve
+554,09-03-22 18:37,22.0,I do not use a streaming service.,2.0,Yes,No,No,Video game music,No,No,4.0,6.0,0.0,2.0,Improve
+555,09-03-22 20:49,18.0,Spotify,2.0,Yes,No,Yes,Pop,Yes,No,5.0,7.0,2.0,0.0,Improve
+556,09-03-22 20:58,19.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,4.0,0.0,7.0,0.0,No effect
+557,09-03-22 21:08,25.0,I do not use a streaming service.,4.0,Yes,No,No,Pop,Yes,Yes,10.0,8.0,6.0,2.0,No effect
+558,09-03-22 21:52,17.0,Spotify,2.0,Yes,Yes,Yes,R&B,Yes,No,3.0,3.0,1.0,0.0,Improve
+559,09-04-22 2:32,25.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,8.0,7.0,2.0,1.0,Improve
+560,09-04-22 5:01,18.0,Spotify,2.0,Yes,No,No,R&B,No,No,3.0,3.0,0.0,3.0,Improve
+562,09-04-22 9:22,24.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,10.0,10.0,8.0,10.0,Improve
+563,09-04-22 10:07,16.0,Spotify,3.0,Yes,Yes,No,K pop,No,Yes,10.0,2.0,7.0,8.0,Improve
+564,09-04-22 10:48,18.0,Spotify,3.0,No,Yes,Yes,Metal,Yes,No,9.0,6.0,8.0,5.0,Improve
+565,09-04-22 11:15,18.0,Spotify,4.0,Yes,No,No,R&B,Yes,Yes,6.0,4.0,1.0,6.0,Improve
+566,09-04-22 11:25,16.0,Spotify,3.0,Yes,No,No,Pop,Yes,No,3.0,4.0,6.0,8.0,Improve
+567,09-04-22 13:07,68.0,Pandora,1.0,Yes,No,No,Gospel,No,No,10.0,10.0,10.0,0.0,Improve
+568,09-04-22 15:41,16.0,Spotify,7.0,Yes,No,No,Video game music,Yes,No,4.0,8.0,8.0,4.0,No effect
+569,09-04-22 16:26,21.0,Spotify,1.0,No,No,No,R&B,Yes,Yes,3.0,0.0,0.0,0.0,Improve
+570,09-04-22 17:54,53.0,Pandora,4.0,Yes,No,No,R&B,Yes,Yes,1.0,0.0,0.0,0.0,Improve
+571,09-04-22 20:38,29.0,Spotify,4.0,Yes,No,No,Classical,Yes,No,5.0,6.0,7.0,7.0,No effect
+573,09-04-22 21:44,29.0,Spotify,2.0,Yes,No,No,Pop,No,No,10.0,8.0,8.0,9.0,Improve
+574,09-04-22 22:32,18.0,Spotify,4.0,Yes,Yes,No,R&B,Yes,Yes,3.0,0.0,3.0,4.0,Improve
+575,09-05-22 2:08,22.0,Spotify,5.0,Yes,No,No,EDM,Yes,Yes,1.0,0.0,0.0,1.0,No effect
+576,09-05-22 6:29,19.0,Other streaming service,6.0,Yes,No,No,Pop,No,No,6.0,6.0,0.0,0.0,Improve
+577,09-05-22 8:21,13.0,YouTube Music,1.0,Yes,No,No,Video game music,Yes,No,4.0,3.0,4.0,0.0,Improve
+578,09-05-22 12:10,26.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,6.0,4.0,0.0,0.0,Improve
+579,09-05-22 21:56,14.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,2.0,6.0,3.0,0.0,Worsen
+580,09-06-22 9:40,27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,8.0,3.0,3.0,3.0,Improve
+581,09-06-22 10:12,26.0,Spotify,8.0,No,No,No,Rock,No,Yes,8.0,10.0,7.0,3.0,No effect
+582,09-06-22 11:15,59.0,Other streaming service,1.0,No,Yes,No,Rock,No,No,1.0,0.0,0.0,1.0,Improve
+583,09-06-22 11:19,30.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,8.0,6.0,6.0,8.0,Improve
+584,09-06-22 12:36,27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,6.0,3.0,1.0,7.0,Improve
+585,09-06-22 13:26,18.0,Apple Music,1.0,No,Yes,No,Rap,Yes,Yes,2.0,0.0,3.0,0.0,Improve
+586,09-06-22 14:43,23.0,I do not use a streaming service.,10.0,Yes,Yes,Yes,Metal,No,Yes,0.0,0.0,0.0,0.0,No effect
+587,09-06-22 15:53,18.0,Spotify,10.0,Yes,Yes,Yes,Rock,Yes,No,10.0,10.0,6.0,6.0,Improve
+588,09-06-22 19:27,40.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,3.0,0.0,0.0,1.0,Improve
+589,09-07-22 9:16,24.0,Spotify,10.0,Yes,No,No,Rock,Yes,Yes,7.0,9.0,10.0,0.0,Improve
+590,09-07-22 12:32,23.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,Yes,8.0,7.0,6.0,2.0,Improve
+591,09-07-22 14:17,56.0,Other streaming service,6.0,Yes,No,No,R&B,No,No,2.0,0.0,10.0,10.0,Improve
+592,09-07-22 19:43,29.0,Other streaming service,2.0,Yes,No,No,R&B,Yes,No,10.0,7.0,9.0,3.0,No effect
+593,09-07-22 21:19,16.0,Other streaming service,3.0,Yes,No,No,Pop,No,Yes,6.0,0.0,0.0,0.0,Improve
+594,09-08-22 15:06,18.0,Spotify,8.0,Yes,Yes,Yes,Gospel,Yes,Yes,3.0,0.0,2.0,2.0,Improve
+595,09-08-22 16:56,21.0,Spotify,8.0,Yes,No,No,Lofi,Yes,Yes,6.0,5.0,9.0,8.0,Improve
+596,09-08-22 18:12,32.0,Spotify,8.0,Yes,No,No,Rock,Yes,No,7.0,6.0,5.0,8.0,Improve
+597,09-08-22 18:14,22.0,YouTube Music,8.0,Yes,Yes,No,Metal,Yes,No,10.0,7.0,8.0,6.0,Improve
+598,09-08-22 19:16,17.0,Spotify,12.0,Yes,Yes,No,Latin,Yes,No,0.0,3.0,9.0,5.0,No effect
+599,09-08-22 21:30,18.0,Spotify,6.0,Yes,No,No,EDM,Yes,Yes,0.0,2.0,1.0,5.0,Improve
+600,09-08-22 23:40,18.0,Spotify,4.0,Yes,Yes,No,R&B,No,Yes,2.0,0.0,0.0,0.0,No effect
+601,09-09-22 7:19,24.0,Spotify,8.0,Yes,No,No,Jazz,Yes,No,2.0,2.0,4.0,0.0,No effect
+602,09-09-22 7:48,21.0,Spotify,2.0,No,No,No,Pop,No,No,5.0,6.0,3.0,4.0,No effect
+603,09-09-22 11:15,46.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,0.0,0.0,1.0,0.0,No effect
+604,09-09-22 11:25,18.0,Spotify,2.0,Yes,Yes,No,Hip hop,Yes,No,5.0,4.0,3.0,7.0,Improve
+605,09-09-22 18:44,16.0,Spotify,3.0,Yes,Yes,No,K pop,Yes,Yes,2.0,7.0,0.0,0.0,Improve
+606,09-09-22 22:31,21.0,Spotify,1.0,Yes,No,No,Video game music,Yes,Yes,0.0,6.0,0.0,4.0,Improve
+607,09-09-22 23:34,19.0,I do not use a streaming service.,0.0,No,No,No,Classical,Yes,Yes,0.0,0.0,0.0,0.0,Improve
+608,09-10-22 2:59,20.0,Spotify,2.0,Yes,Yes,Yes,Rap,Yes,Yes,7.0,5.0,1.0,3.0,Improve
+609,09-10-22 6:07,21.0,Other streaming service,0.1,Yes,Yes,No,Folk,No,Yes,7.0,5.0,3.0,1.0,No effect
+610,09-10-22 9:06,56.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,No,Yes,3.0,3.0,1.0,8.0,No effect
+611,09-10-22 22:08,21.0,Spotify,12.0,Yes,No,No,Rock,Yes,Yes,7.0,10.0,4.0,7.0,Worsen
+612,09-12-22 9:39,20.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,3.0,2.0,3.0,0.0,Improve
+613,09-12-22 11:45,21.0,Apple Music,1.0,Yes,No,No,Rock,No,No,5.0,1.0,1.0,9.0,Improve
+614,09-12-22 12:09,25.0,Spotify,3.0,Yes,No,No,Rock,No,No,8.0,9.0,4.0,10.0,Improve
+615,09-12-22 12:14,33.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,4.0,8.0,0.0,0.0,Improve
+616,09-12-22 12:15,20.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,7.0,9.0,7.0,0.0,Improve
+617,09-12-22 12:46,17.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,1.0,5.0,6.0,4.0,No effect
+618,09-12-22 13:31,24.0,YouTube Music,1.0,No,No,No,Jazz,Yes,Yes,3.0,2.0,1.0,0.0,No effect
+619,09-12-22 13:33,26.0,Spotify,3.0,Yes,Yes,Yes,Jazz,Yes,Yes,6.0,8.0,0.0,0.0,Improve
+620,09-12-22 13:46,17.0,YouTube Music,3.0,Yes,No,No,Rock,No,No,6.0,3.0,6.0,0.0,Improve
+621,09-12-22 13:55,16.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,7.0,4.0,8.0,0.0,Improve
+622,09-12-22 14:20,27.0,Spotify,8.0,Yes,No,No,Metal,Yes,No,2.0,6.0,9.0,1.0,No effect
+623,09-12-22 14:27,28.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,8.0,5.0,3.0,8.0,Improve
+624,09-12-22 14:29,48.0,I do not use a streaming service.,5.0,Yes,No,Yes,Rock,Yes,Yes,3.0,3.0,0.0,0.0,Improve
+625,09-12-22 14:42,19.0,Spotify,3.0,Yes,No,No,Rap,No,Yes,7.0,5.0,3.0,3.0,Improve
+626,09-12-22 14:44,21.0,YouTube Music,4.0,Yes,No,No,Rock,Yes,Yes,4.0,8.0,2.0,3.0,Improve
+627,09-12-22 15:07,21.0,I do not use a streaming service.,1.0,Yes,Yes,No,Classical,No,No,3.0,0.0,0.0,5.0,Improve
+628,09-12-22 15:12,15.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,10.0,7.0,3.0,2.0,Improve
+629,09-12-22 16:24,20.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,10.0,4.0,8.0,0.0,Improve
+630,09-12-22 18:07,21.0,YouTube Music,2.0,Yes,Yes,No,Video game music,No,Yes,2.0,2.0,0.0,0.0,Improve
+631,09-12-22 18:09,22.0,Spotify,6.0,Yes,No,No,Folk,Yes,No,8.0,7.0,7.0,3.0,Improve
+632,09-12-22 18:10,22.0,Spotify,2.0,No,No,No,Rock,No,No,10.0,5.0,2.0,8.0,Improve
+633,09-12-22 18:54,31.0,Spotify,1.0,Yes,No,No,Rock,Yes,No,9.0,10.0,10.0,6.0,No effect
+634,09-12-22 19:03,20.0,YouTube Music,4.0,Yes,Yes,No,Metal,Yes,No,5.0,2.0,1.0,6.0,Improve
+635,09-12-22 19:13,49.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Classical,No,No,4.0,8.0,9.0,1.0,Improve
+636,09-12-22 19:41,42.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,7.0,8.0,5.0,3.0,Improve
+637,09-12-22 20:07,26.0,Spotify,2.0,Yes,No,No,EDM,Yes,Yes,2.0,2.0,0.0,3.0,No effect
+638,09-12-22 22:24,17.0,Spotify,10.0,Yes,No,Yes,K pop,Yes,Yes,10.0,3.0,0.0,4.0,Improve
+639,09-12-22 22:26,30.0,I do not use a streaming service.,0.0,No,No,No,Metal,No,No,10.0,10.0,10.0,9.0,Improve
+640,09-12-22 23:09,23.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,3.0,7.0,7.0,4.0,No effect
+641,09-12-22 23:16,30.0,Apple Music,3.0,Yes,No,No,EDM,Yes,Yes,7.0,5.0,7.0,7.0,Improve
+642,09-12-22 23:56,31.0,Spotify,2.0,Yes,No,No,Metal,No,Yes,7.0,4.0,8.0,8.0,Improve
+643,9/13/2022 0:48,42.0,Other streaming service,0.25,No,Yes,No,Classical,Yes,Yes,7.0,9.0,4.0,5.0,Improve
+644,9/13/2022 1:55,16.0,Other streaming service,4.0,Yes,No,No,EDM,Yes,Yes,4.0,7.0,1.0,3.0,Improve
+645,9/13/2022 1:57,34.0,YouTube Music,2.0,No,No,No,Metal,Yes,No,5.0,9.0,9.0,6.0,Improve
+646,9/13/2022 2:17,21.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,5.0,4.0,10.0,7.0,No effect
+647,9/13/2022 4:45,27.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,7.0,2.0,0.0,1.0,Improve
+648,9/13/2022 5:57,18.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,8.0,6.0,0.0,2.0,Improve
+649,9/13/2022 7:06,26.0,Spotify,3.0,No,No,No,Metal,Yes,No,1.0,3.0,10.0,0.0,No effect
+650,9/13/2022 7:12,37.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,8.0,10.0,10.0,2.0,Worsen
+651,9/13/2022 8:05,26.0,Spotify,5.0,Yes,Yes,No,Folk,Yes,Yes,4.0,7.0,6.0,0.0,No effect
+652,9/13/2022 8:36,19.0,Spotify,4.0,No,No,No,Pop,No,Yes,9.0,6.0,3.0,0.0,No effect
+653,9/13/2022 9:29,22.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,10.0,7.0,4.0,4.0,Improve
+654,9/13/2022 11:16,43.0,I do not use a streaming service.,0.0,No,No,No,Rock,No,No,1.0,2.0,2.0,0.0,No effect
+655,9/13/2022 13:18,24.0,I do not use a streaming service.,12.0,Yes,Yes,Yes,Rock,Yes,No,7.0,10.0,0.0,8.0,Improve
+656,9/13/2022 13:58,21.0,I do not use a streaming service.,0.5,No,No,No,Pop,No,No,10.0,2.0,1.0,10.0,Worsen
+657,9/13/2022 16:16,28.0,I do not use a streaming service.,1.0,Yes,No,No,Rock,No,No,2.0,1.0,2.0,2.0,Improve
+658,9/13/2022 16:34,23.0,YouTube Music,3.0,Yes,No,No,R&B,Yes,Yes,3.0,10.0,0.0,0.0,No effect
+659,9/13/2022 22:19,20.0,Apple Music,12.0,No,No,No,Rock,Yes,Yes,7.0,10.0,2.0,0.0,Improve
+660,9/13/2022 23:06,17.0,Spotify,4.0,Yes,Yes,Yes,Metal,No,No,4.0,2.0,0.0,0.0,Improve
+661,9/14/2022 0:09,19.0,Spotify,3.0,Yes,No,No,R&B,No,No,4.0,2.0,5.0,3.0,Improve
+662,9/14/2022 0:58,32.0,Spotify,1.0,Yes,No,No,Metal,Yes,Yes,6.0,8.0,7.0,0.0,Improve
+663,9/14/2022 7:07,18.0,YouTube Music,4.0,No,No,No,Folk,Yes,Yes,8.0,6.0,4.0,0.0,Improve
+664,9/14/2022 9:56,20.0,Other streaming service,2.0,Yes,Yes,Yes,Rock,Yes,No,2.0,2.0,0.0,0.0,No effect
+665,9/14/2022 12:44,27.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,8.0,7.0,9.0,3.0,Improve
+667,9/15/2022 9:41,26.0,Spotify,1.0,Yes,No,No,Rock,Yes,Yes,6.0,1.0,0.0,4.0,No effect
+668,9/15/2022 11:09,24.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,6.0,6.0,3.0,6.0,Improve
+669,9/15/2022 15:30,20.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,8.0,7.0,1.0,1.0,No effect
+670,9/16/2022 1:47,21.0,YouTube Music,0.5,Yes,No,No,Pop,Yes,Yes,5.0,3.0,4.0,1.0,Improve
+671,9/16/2022 9:24,16.0,Spotify,2.0,Yes,No,No,Video game music,No,No,6.0,2.0,4.0,3.0,Improve
+672,9/16/2022 21:55,21.0,Spotify,11.0,Yes,Yes,Yes,Metal,Yes,Yes,5.0,6.0,6.0,0.0,Improve
+673,9/18/2022 16:23,27.0,Spotify,10.0,Yes,Yes,Yes,Jazz,Yes,Yes,6.0,10.0,8.0,1.0,Improve
+674,9/18/2022 20:32,17.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,7.0,3.0,9.0,7.0,Improve
+675,9/19/2022 8:12,21.0,Spotify,1.5,Yes,Yes,No,Classical,Yes,Yes,4.0,6.0,0.0,0.0,No effect
+676,9/19/2022 9:37,17.0,Spotify,2.0,Yes,No,No,Folk,Yes,Yes,9.0,4.0,0.0,1.0,Improve
+677,9/19/2022 18:34,21.0,Spotify,3.0,No,No,No,Rap,Yes,Yes,9.0,7.0,7.0,5.0,Improve
+678,9/19/2022 20:09,17.0,YouTube Music,2.0,No,No,Yes,Rock,Yes,No,5.0,10.0,2.0,7.0,No effect
+679,9/19/2022 23:53,36.0,YouTube Music,3.0,Yes,No,No,Country,No,Yes,1.0,0.0,1.0,0.0,Improve
+680,9/21/2022 21:12,18.0,Spotify,4.0,No,No,No,R&B,Yes,Yes,8.0,7.0,2.0,6.0,Improve
+681,9/22/2022 12:32,18.0,Spotify,1.0,No,No,No,K pop,No,Yes,5.0,1.0,4.0,0.0,Improve
+682,9/22/2022 15:03,18.0,Apple Music,5.0,Yes,Yes,No,Latin,Yes,Yes,10.0,6.0,0.0,0.0,Improve
+683,9/23/2022 21:07,18.0,Apple Music,2.0,Yes,No,No,R&B,Yes,No,7.0,5.0,5.0,5.0,Improve
+684,9/23/2022 23:05,18.0,Spotify,7.0,Yes,No,No,Hip hop,Yes,Yes,3.0,1.0,0.0,3.0,Improve
+685,9/23/2022 23:06,18.0,Spotify,2.0,Yes,No,No,Rap,Yes,Yes,5.0,8.0,7.0,4.0,Improve
+686,9/23/2022 23:06,18.0,I do not use a streaming service.,1.0,Yes,No,No,Classical,No,No,2.0,0.0,0.0,5.0,No effect
+687,9/23/2022 23:43,18.0,I do not use a streaming service.,1.0,No,Yes,No,Classical,No,No,7.0,0.0,0.0,0.0,No effect
+688,9/24/2022 0:42,18.0,Spotify,4.0,Yes,No,No,R&B,No,No,8.0,0.0,0.0,2.0,No effect
+689,9/24/2022 10:25,20.0,Spotify,6.0,Yes,No,No,R&B,Yes,Yes,4.0,1.0,1.0,0.0,Improve
+690,9/24/2022 10:59,19.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,No,3.0,8.0,0.0,2.0,Improve
+691,9/25/2022 14:01,17.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,7.0,0.0,2.0,2.0,Improve
+692,9/27/2022 8:17,23.0,Spotify,4.0,Yes,No,No,Video game music,Yes,Yes,10.0,8.0,10.0,0.0,Improve
+693,9/27/2022 11:46,18.0,YouTube Music,1.0,Yes,Yes,Yes,Pop,Yes,No,7.0,1.0,1.0,1.0,Improve
+694,9/27/2022 13:32,19.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,5.0,9.0,1.0,7.0,No effect
+695,9/28/2022 17:25,89.0,Spotify,24.0,Yes,Yes,Yes,Rap,No,No,0.0,0.0,0.0,0.0,No effect
+696,9/28/2022 19:37,20.0,Spotify,5.0,Yes,Yes,Yes,R&B,Yes,Yes,10.0,6.0,3.0,8.0,Improve
+697,9/29/2022 17:54,16.0,Spotify,3.0,No,Yes,No,Rock,Yes,Yes,7.0,3.5,3.5,5.5,Improve
+698,10-02-22 7:52,17.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,2.0,0.0,0.0,2.0,Improve
+699,10-03-22 9:30,16.0,Spotify,9.0,Yes,No,No,Metal,No,Yes,10.0,10.0,10.0,8.0,Improve
+700,10-03-22 10:00,20.0,YouTube Music,1.0,Yes,No,No,Pop,No,Yes,8.0,9.0,6.0,5.0,Worsen
+701,10-03-22 10:25,30.0,YouTube Music,1.0,Yes,Yes,No,Rock,Yes,Yes,9.0,7.0,8.0,4.0,Improve
+702,10-03-22 10:53,37.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,6.0,4.0,5.0,0.0,Improve
+703,10-03-22 11:30,44.0,YouTube Music,1.5,No,No,No,Folk,No,No,8.0,5.0,9.0,4.0,Improve
+704,10-03-22 13:01,21.0,Spotify,2.0,Yes,Yes,No,Metal,Yes,Yes,3.0,7.0,0.0,0.0,Improve
+705,10-03-22 13:47,19.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,9.0,1.0,0.0,9.0,Improve
+706,10-03-22 15:38,23.0,Spotify,1.0,Yes,Yes,No,Rock,Yes,Yes,8.0,6.0,1.0,4.0,Improve
+707,10-03-22 16:43,26.0,Spotify,1.0,No,No,No,Country,Yes,No,4.0,1.0,1.0,6.0,Improve
+708,10-03-22 20:03,18.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,6.0,5.0,3.0,1.0,No effect
+709,10-04-22 0:48,35.0,Spotify,4.0,Yes,Yes,Yes,Hip hop,Yes,No,7.0,8.0,6.0,5.0,Improve
+710,10-04-22 4:50,16.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,8.0,9.0,5.0,10.0,Improve
+711,10-04-22 8:12,19.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,8.0,6.0,7.0,0.0,Improve
+712,10-04-22 8:53,23.0,I do not use a streaming service.,3.0,Yes,No,No,Rock,No,No,10.0,5.0,2.0,0.0,Improve
+713,10-04-22 14:50,17.0,YouTube Music,8.0,Yes,No,No,Pop,Yes,Yes,5.0,2.0,4.0,7.0,No effect
+714,10-04-22 19:33,29.0,Apple Music,1.0,No,No,No,Country,Yes,No,9.0,3.0,2.0,0.0,No effect
+715,10-04-22 19:43,21.0,Spotify,4.0,Yes,Yes,Yes,Pop,No,No,4.0,6.0,3.0,4.0,Improve
+716,10-05-22 8:58,17.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,9.0,8.0,4.0,0.0,Improve
+717,10-05-22 12:30,23.0,Spotify,2.0,No,No,No,Rock,Yes,Yes,5.0,7.0,10.0,2.0,No effect
+718,10-06-22 3:35,17.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,8.0,3.0,9.0,2.0,No effect
+719,10-06-22 9:17,22.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,10.0,10.0,6.0,8.0,Improve
+720,10-09-22 22:15,17.0,Spotify,5.0,Yes,No,No,Hip hop,Yes,No,7.0,7.0,5.0,5.0,Improve
+721,10-11-22 15:46,19.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,Yes,10.0,8.0,1.0,0.0,Improve
+722,10/14/2022 18:01,19.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,8.0,6.0,2.0,0.0,Improve
+723,10/14/2022 20:42,16.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,10.0,7.0,6.0,10.0,Improve
+724,10/15/2022 14:00,19.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,6.0,6.0,8.0,0.0,Improve
+725,10/22/2022 15:20,13.0,Spotify,1.0,Yes,No,No,Video game music,Yes,No,10.0,10.0,8.0,4.0,Worsen
+726,10/23/2022 20:50,18.0,Apple Music,18.0,Yes,No,No,EDM,Yes,No,9.0,8.0,5.0,10.0,Improve
+727,10/26/2022 19:45,26.0,YouTube Music,1.0,Yes,No,No,Metal,Yes,Yes,0.0,0.0,0.0,0.0,No effect
+728,10/30/2022 7:24,14.0,Other streaming service,7.0,Yes,Yes,No,Country,Yes,No,7.0,3.0,1.0,2.0,Improve
+729,10/30/2022 13:13,21.0,I do not use a streaming service.,0.5,No,No,No,Pop,Yes,No,6.0,2.0,2.0,0.0,Improve
+730,10/30/2022 13:15,21.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,7.0,6.0,4.0,6.0,Improve
+731,10/30/2022 14:37,17.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,7.0,6.0,0.0,9.0,Improve
+732,11-01-22 22:26,18.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,3.0,2.0,2.0,5.0,Improve
+733,11-03-22 23:24,19.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,2.0,2.0,2.0,2.0,Improve
+734,11-04-22 17:31,19.0,Spotify,5.0,Yes,Yes,No,Classical,No,No,2.0,3.0,2.0,1.0,Improve
+735,11-09-22 1:55,29.0,YouTube Music,2.0,Yes,No,No,Hip hop,Yes,Yes,2.0,2.0,2.0,5.0,Improve
